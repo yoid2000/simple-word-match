@@ -1,0 +1,8578 @@
+[
+    {
+        "english": "to drink",
+        "german": "trinken"
+    },
+    {
+        "english": "child",
+        "german": "das Kind"
+    },
+    {
+        "english": "to be",
+        "german": "sein"
+    },
+    {
+        "english": "boy",
+        "german": "der Junge"
+    },
+    {
+        "english": "girl",
+        "german": "das M\u00e4dchen"
+    },
+    {
+        "english": "water",
+        "german": "das Wasser"
+    },
+    {
+        "english": "bread",
+        "german": "das Brot"
+    },
+    {
+        "english": "woman, wife",
+        "german": "die Frau"
+    },
+    {
+        "english": "children",
+        "german": "die Kinder"
+    },
+    {
+        "english": "man, husband",
+        "german": "der Mann"
+    },
+    {
+        "english": "you're welcome, no problem",
+        "german": "Keine Ursache!"
+    },
+    {
+        "english": "see you tomorrow",
+        "german": "Bis morgen"
+    },
+    {
+        "english": "How are you?",
+        "german": "Wie geht's?"
+    },
+    {
+        "english": "unfortunately, sadly",
+        "german": "leider"
+    },
+    {
+        "english": "you're welcome, it was my pleasure.",
+        "german": "Gern geschehen"
+    },
+    {
+        "english": "thanks",
+        "german": "Danke"
+    },
+    {
+        "english": "yes",
+        "german": "ja"
+    },
+    {
+        "english": "I'm fine; I'm good",
+        "german": "Mir geht's gut"
+    },
+    {
+        "english": "no",
+        "german": "nein"
+    },
+    {
+        "english": "please",
+        "german": "bitte"
+    },
+    {
+        "english": "good night",
+        "german": "Gute Nacht"
+    },
+    {
+        "english": "bye!",
+        "german": "Tsch\u00fcss!"
+    },
+    {
+        "english": "gist, idea, hunch",
+        "german": "die Ahnung"
+    },
+    {
+        "english": "I'm sorry",
+        "german": "Tut mir leid"
+    },
+    {
+        "english": "see you later",
+        "german": "Bis sp\u00e4ter"
+    },
+    {
+        "english": "it's all good, all right, all clear",
+        "german": "Alles klar"
+    },
+    {
+        "english": "good morning",
+        "german": "Guten Morgen"
+    },
+    {
+        "english": "good evening",
+        "german": "Guten Abend"
+    },
+    {
+        "english": "good bye!",
+        "german": "Auf Wiedersehen!"
+    },
+    {
+        "english": "welcome",
+        "german": "Willkommen"
+    },
+    {
+        "english": "excuse me; I'm sorry",
+        "german": "Entschuldigung"
+    },
+    {
+        "english": "See you soon!",
+        "german": "Bis bald!"
+    },
+    {
+        "english": "okay, all right, in order",
+        "german": "in Ordnung"
+    },
+    {
+        "english": "exact, exactly, precisely",
+        "german": "genau"
+    },
+    {
+        "english": "hello",
+        "german": "Hallo"
+    },
+    {
+        "english": "hello, good day",
+        "german": "Guten Tag"
+    },
+    {
+        "english": "to read",
+        "german": "lesen"
+    },
+    {
+        "english": "to have",
+        "german": "haben"
+    },
+    {
+        "english": "book",
+        "german": "das Buch"
+    },
+    {
+        "english": "to eat",
+        "german": "essen"
+    },
+    {
+        "english": "apple",
+        "german": "der Apfel"
+    },
+    {
+        "english": "newspaper",
+        "german": "die Zeitung"
+    },
+    {
+        "english": "milk",
+        "german": "die Milch"
+    },
+    {
+        "english": "German",
+        "german": "deutsch"
+    },
+    {
+        "english": "from, out of, of",
+        "german": "aus"
+    },
+    {
+        "english": "English",
+        "german": "englisch"
+    },
+    {
+        "english": "to understand, to comprehend",
+        "german": "verstehen"
+    },
+    {
+        "english": "to be called; to be named",
+        "german": "hei\u00dfen"
+    },
+    {
+        "english": "Germany",
+        "german": "Deutschland"
+    },
+    {
+        "english": "to come, to get to, to arrive",
+        "german": "kommen"
+    },
+    {
+        "english": "noodle, pasta",
+        "german": "die Nudeln"
+    },
+    {
+        "english": "tea",
+        "german": "der Tee"
+    },
+    {
+        "english": "thirst",
+        "german": "der Durst"
+    },
+    {
+        "english": "soup",
+        "german": "die Suppe"
+    },
+    {
+        "english": "to taste",
+        "german": "schmecken"
+    },
+    {
+        "english": "fruit",
+        "german": "das Obst"
+    },
+    {
+        "english": "vegetable",
+        "german": "das Gem\u00fcse"
+    },
+    {
+        "english": "food; meal",
+        "german": "das Essen"
+    },
+    {
+        "english": "egg",
+        "german": "das Ei"
+    },
+    {
+        "english": "pizza",
+        "german": "die Pizza"
+    },
+    {
+        "english": "apple juice",
+        "german": "der Apfelsaft"
+    },
+    {
+        "english": "ice, ice cream",
+        "german": "das Eis"
+    },
+    {
+        "english": "banana",
+        "german": "die Banane"
+    },
+    {
+        "english": "orange juice",
+        "german": "der Orangensaft"
+    },
+    {
+        "english": "strawberry",
+        "german": "die Erdbeere"
+    },
+    {
+        "english": "some fruit",
+        "german": "etwas Obst"
+    },
+    {
+        "english": "fresh",
+        "german": "frisch"
+    },
+    {
+        "english": "chocolate",
+        "german": "die Schokolade"
+    },
+    {
+        "english": "cheese",
+        "german": "der K\u00e4se"
+    },
+    {
+        "english": "orange",
+        "german": "die Orange"
+    },
+    {
+        "english": "juice",
+        "german": "der Saft"
+    },
+    {
+        "english": "coffee",
+        "german": "der Kaffee"
+    },
+    {
+        "english": "hunger",
+        "german": "der Hunger"
+    },
+    {
+        "english": "fish",
+        "german": "der Fisch"
+    },
+    {
+        "english": "rice",
+        "german": "der Reis"
+    },
+    {
+        "english": "oil",
+        "german": "das \u00d6l"
+    },
+    {
+        "english": "sweet; cute",
+        "german": "s\u00fc\u00df"
+    },
+    {
+        "english": "good",
+        "german": "gut"
+    },
+    {
+        "english": "beer",
+        "german": "das Bier"
+    },
+    {
+        "english": "wine",
+        "german": "der Wein"
+    },
+    {
+        "english": "sugar",
+        "german": "der Zucker"
+    },
+    {
+        "english": "meat",
+        "german": "das Fleisch"
+    },
+    {
+        "english": "potato",
+        "german": "die Kartoffel"
+    },
+    {
+        "english": "salt",
+        "german": "das Salz"
+    },
+    {
+        "english": "tasty, yummy",
+        "german": "lecker"
+    },
+    {
+        "english": "duck",
+        "german": "die Ente"
+    },
+    {
+        "english": "mouse",
+        "german": "die Maus"
+    },
+    {
+        "english": "cow",
+        "german": "die Kuh"
+    },
+    {
+        "english": "pet",
+        "german": "das Haustier"
+    },
+    {
+        "english": "spider",
+        "german": "die Spinne"
+    },
+    {
+        "english": "fly",
+        "german": "die Fliege"
+    },
+    {
+        "english": "beetles",
+        "german": "die K\u00e4fer"
+    },
+    {
+        "english": "bee",
+        "german": "die Biene"
+    },
+    {
+        "english": "bear",
+        "german": "der B\u00e4r"
+    },
+    {
+        "english": "cat",
+        "german": "die Katze"
+    },
+    {
+        "english": "dog",
+        "german": "der Hund"
+    },
+    {
+        "english": "horse",
+        "german": "das Pferd"
+    },
+    {
+        "english": "animal",
+        "german": "das Tier"
+    },
+    {
+        "english": "pig",
+        "german": "das Schwein"
+    },
+    {
+        "english": "to devour; to eat",
+        "german": "fressen"
+    },
+    {
+        "english": "insect",
+        "german": "das Insekt"
+    },
+    {
+        "english": "beetle",
+        "german": "der K\u00e4fer"
+    },
+    {
+        "english": "bird",
+        "german": "der Vogel"
+    },
+    {
+        "english": "man; human; people",
+        "german": "der Mensch"
+    },
+    {
+        "english": "loud",
+        "german": "laut"
+    },
+    {
+        "english": "big, tall",
+        "german": "gro\u00df"
+    },
+    {
+        "english": "perfect",
+        "german": "perfekt"
+    },
+    {
+        "english": "round",
+        "german": "rund"
+    },
+    {
+        "english": "calm, quiet",
+        "german": "ruhig"
+    },
+    {
+        "english": "light; easy; soft",
+        "german": "leicht"
+    },
+    {
+        "english": "normal",
+        "german": "normal"
+    },
+    {
+        "english": "weak",
+        "german": "schwach"
+    },
+    {
+        "english": "quiet, soft",
+        "german": "leise"
+    },
+    {
+        "english": "bad",
+        "german": "schlecht"
+    },
+    {
+        "english": "free",
+        "german": "frei"
+    },
+    {
+        "english": "long",
+        "german": "lang"
+    },
+    {
+        "english": "clear",
+        "german": "klar"
+    },
+    {
+        "english": "small, short",
+        "german": "klein"
+    },
+    {
+        "english": "great; super",
+        "german": "toll"
+    },
+    {
+        "english": "healthy",
+        "german": "gesund"
+    },
+    {
+        "english": "sad, sadly, unhappy",
+        "german": "traurig"
+    },
+    {
+        "english": "funny, humorous",
+        "german": "lustig"
+    },
+    {
+        "english": "ready",
+        "german": "fertig"
+    },
+    {
+        "english": "easy, simple",
+        "german": "einfach"
+    },
+    {
+        "english": "not",
+        "german": "nicht"
+    },
+    {
+        "english": "strong",
+        "german": "stark"
+    },
+    {
+        "english": "important",
+        "german": "wichtig"
+    },
+    {
+        "english": "young",
+        "german": "jung"
+    },
+    {
+        "english": "dirty",
+        "german": "schmutzig"
+    },
+    {
+        "english": "far, wide",
+        "german": "weit"
+    },
+    {
+        "english": "old",
+        "german": "alt"
+    },
+    {
+        "english": "high",
+        "german": "hoch"
+    },
+    {
+        "english": "warm",
+        "german": "warm"
+    },
+    {
+        "english": "deep",
+        "german": "tief"
+    },
+    {
+        "english": "beautiful",
+        "german": "sch\u00f6n"
+    },
+    {
+        "english": "cold",
+        "german": "kalt"
+    },
+    {
+        "english": "new",
+        "german": "neu"
+    },
+    {
+        "english": "difficult, heavy",
+        "german": "schwer"
+    },
+    {
+        "english": "expensive",
+        "german": "teuer"
+    },
+    {
+        "english": "correct",
+        "german": "richtig"
+    },
+    {
+        "english": "clean",
+        "german": "sauber"
+    },
+    {
+        "english": "fast",
+        "german": "schnell"
+    },
+    {
+        "english": "slow",
+        "german": "langsam"
+    },
+    {
+        "english": "tired",
+        "german": "m\u00fcde"
+    },
+    {
+        "english": "to dash; to sprint; to race",
+        "german": "rennen"
+    },
+    {
+        "english": "to sleep",
+        "german": "schlafen"
+    },
+    {
+        "english": "to write",
+        "german": "schreiben"
+    },
+    {
+        "english": "to run, to walk",
+        "german": "laufen"
+    },
+    {
+        "english": "to see",
+        "german": "sehen"
+    },
+    {
+        "english": "to like",
+        "german": "m\u00f6gen"
+    },
+    {
+        "english": "to want",
+        "german": "wollen"
+    },
+    {
+        "english": "to hear",
+        "german": "h\u00f6ren"
+    },
+    {
+        "english": "to wash",
+        "german": "waschen"
+    },
+    {
+        "english": "to go",
+        "german": "gehen"
+    },
+    {
+        "english": "to begin",
+        "german": "beginnen"
+    },
+    {
+        "english": "to need",
+        "german": "brauchen"
+    },
+    {
+        "english": "to be enough, to reach, to suffice",
+        "german": "reichen"
+    },
+    {
+        "english": "to swim",
+        "german": "schwimmen"
+    },
+    {
+        "english": "to pay",
+        "german": "bezahlen"
+    },
+    {
+        "english": "to learn",
+        "german": "lernen"
+    },
+    {
+        "english": "to play",
+        "german": "spielen"
+    },
+    {
+        "english": "to think",
+        "german": "denken"
+    },
+    {
+        "english": "to make, to do",
+        "german": "machen"
+    },
+    {
+        "english": "to drive, to ride",
+        "german": "fahren"
+    },
+    {
+        "english": "to bring",
+        "german": "bringen"
+    },
+    {
+        "english": "to know (someone), to be familiar with, to aware of",
+        "german": "kennen"
+    },
+    {
+        "english": "to fit, to suit",
+        "german": "passen"
+    },
+    {
+        "english": "bag; handbag",
+        "german": "die Tasche"
+    },
+    {
+        "english": "jacket",
+        "german": "die Jacke"
+    },
+    {
+        "english": "coat",
+        "german": "der Mantel"
+    },
+    {
+        "english": "trouser, pants",
+        "german": "die Hose"
+    },
+    {
+        "english": "shirt",
+        "german": "das Hemd"
+    },
+    {
+        "english": "jewellery",
+        "german": "der Schmuck"
+    },
+    {
+        "english": "cosmetics",
+        "german": "die Kosmetik"
+    },
+    {
+        "english": "spot, stain",
+        "german": "der Fleck"
+    },
+    {
+        "english": "shoe",
+        "german": "der Schuh"
+    },
+    {
+        "english": "hat",
+        "german": "der Hut"
+    },
+    {
+        "english": "to wear",
+        "german": "tragen"
+    },
+    {
+        "english": "dress",
+        "german": "das Kleid"
+    },
+    {
+        "english": "clothes",
+        "german": "die Kleidung"
+    },
+    {
+        "english": "skirt",
+        "german": "der Rock"
+    },
+    {
+        "english": "button",
+        "german": "der Knopf"
+    },
+    {
+        "english": "ring, circle",
+        "german": "der Ring"
+    },
+    {
+        "english": "air",
+        "german": "die Luft"
+    },
+    {
+        "english": "fire",
+        "german": "das Feuer"
+    },
+    {
+        "english": "sea, ocean",
+        "german": "das Meer"
+    },
+    {
+        "english": "nature",
+        "german": "die Natur"
+    },
+    {
+        "english": "to fall",
+        "german": "fallen"
+    },
+    {
+        "english": "earth",
+        "german": "die Erde"
+    },
+    {
+        "english": "flower",
+        "german": "die Blume"
+    },
+    {
+        "english": "moon",
+        "german": "der Mond"
+    },
+    {
+        "english": "star",
+        "german": "der Stern"
+    },
+    {
+        "english": "tree",
+        "german": "der Baum"
+    },
+    {
+        "english": "wind",
+        "german": "der Wind"
+    },
+    {
+        "english": "mountain",
+        "german": "der Berg"
+    },
+    {
+        "english": "to live; to be alive",
+        "german": "leben"
+    },
+    {
+        "english": "sun",
+        "german": "die Sonne"
+    },
+    {
+        "english": "sky",
+        "german": "der Himmel"
+    },
+    {
+        "english": "our",
+        "german": "unser"
+    },
+    {
+        "english": "your",
+        "german": "euer"
+    },
+    {
+        "english": "your",
+        "german": "Ihr"
+    },
+    {
+        "english": "your",
+        "german": "dein"
+    },
+    {
+        "english": "their, theirs, her, hers",
+        "german": "ihr"
+    },
+    {
+        "english": "my",
+        "german": "mein"
+    },
+    {
+        "english": "someone",
+        "german": "jemand"
+    },
+    {
+        "english": "no one",
+        "german": "niemand"
+    },
+    {
+        "english": "a few",
+        "german": "ein paar"
+    },
+    {
+        "english": "both",
+        "german": "beide"
+    },
+    {
+        "english": "some",
+        "german": "manche"
+    },
+    {
+        "english": "everything",
+        "german": "alles"
+    },
+    {
+        "english": "a lot",
+        "german": "viel"
+    },
+    {
+        "english": "each",
+        "german": "jeder, jede, jedes"
+    },
+    {
+        "english": "this",
+        "german": "dies"
+    },
+    {
+        "english": "somethingsome, somewhat, a little",
+        "german": "etwas"
+    },
+    {
+        "english": "nothing",
+        "german": "nichts"
+    },
+    {
+        "english": "never",
+        "german": "niemals"
+    },
+    {
+        "english": "no one",
+        "german": "keiner"
+    },
+    {
+        "english": "none",
+        "german": "kein"
+    },
+    {
+        "english": "never",
+        "german": "nie"
+    },
+    {
+        "english": "turn",
+        "german": "dran"
+    },
+    {
+        "english": "so",
+        "german": "so"
+    },
+    {
+        "english": "together",
+        "german": "zusammen"
+    },
+    {
+        "english": "alone",
+        "german": "allein"
+    },
+    {
+        "english": "really",
+        "german": "wirklich"
+    },
+    {
+        "english": "only",
+        "german": "nur"
+    },
+    {
+        "english": "still, yet, nor",
+        "german": "noch"
+    },
+    {
+        "english": "gladly",
+        "german": "gern"
+    },
+    {
+        "english": "again",
+        "german": "wieder"
+    },
+    {
+        "english": "also",
+        "german": "auch"
+    },
+    {
+        "english": "always",
+        "german": "immer"
+    },
+    {
+        "english": "maybe; perhaps",
+        "german": "vielleicht"
+    },
+    {
+        "english": "already, yet",
+        "german": "schon"
+    },
+    {
+        "english": "market",
+        "german": "der Markt"
+    },
+    {
+        "english": "structure, construction, building",
+        "german": "der Bau"
+    },
+    {
+        "english": "constructions, buildings",
+        "german": "die Bauten"
+    },
+    {
+        "english": "corner",
+        "german": "die Ecke"
+    },
+    {
+        "english": "park",
+        "german": "der Park"
+    },
+    {
+        "english": "library",
+        "german": "die Bibliothek"
+    },
+    {
+        "english": "country",
+        "german": "das Land"
+    },
+    {
+        "english": "hotel",
+        "german": "das Hotel"
+    },
+    {
+        "english": "bridge",
+        "german": "die Br\u00fccke"
+    },
+    {
+        "english": "railway station",
+        "german": "der Bahnhof"
+    },
+    {
+        "english": "street",
+        "german": "die Stra\u00dfe"
+    },
+    {
+        "english": "school",
+        "german": "die Schule"
+    },
+    {
+        "english": "village",
+        "german": "das Dorf"
+    },
+    {
+        "english": "room",
+        "german": "das Zimmer"
+    },
+    {
+        "english": "house",
+        "german": "das Haus"
+    },
+    {
+        "english": "to build",
+        "german": "bauen"
+    },
+    {
+        "english": "restaurant",
+        "german": "das Restaurant"
+    },
+    {
+        "english": "city",
+        "german": "die Stadt"
+    },
+    {
+        "english": "castle",
+        "german": "das Schloss"
+    },
+    {
+        "english": "garden",
+        "german": "der Garten"
+    },
+    {
+        "english": "bank, bench",
+        "german": "die Bank"
+    },
+    {
+        "english": "building",
+        "german": "das Geb\u00e4ude"
+    },
+    {
+        "english": "aeroplane",
+        "german": "das Flugzeug"
+    },
+    {
+        "english": "toy",
+        "german": "das Spielzeug"
+    },
+    {
+        "english": "vehicle",
+        "german": "das Fahrzeug"
+    },
+    {
+        "english": "stuff",
+        "german": "das Zeug"
+    },
+    {
+        "english": "lighter",
+        "german": "das Feuerzeug"
+    },
+    {
+        "english": "tool",
+        "german": "das Werkzeug"
+    },
+    {
+        "english": "him",
+        "german": "ihn"
+    },
+    {
+        "english": "me",
+        "german": "mich"
+    },
+    {
+        "english": "it",
+        "german": "es"
+    },
+    {
+        "english": "you",
+        "german": "Sie"
+    },
+    {
+        "english": "you (accusative, informal, plural)",
+        "german": "euch"
+    },
+    {
+        "english": "you",
+        "german": "dich"
+    },
+    {
+        "english": "another, other, different",
+        "german": "andere"
+    },
+    {
+        "english": "she, her (nom./acc.)",
+        "german": "sie"
+    },
+    {
+        "english": "us (accusative)",
+        "german": "uns"
+    },
+    {
+        "english": "roof",
+        "german": "das Dach"
+    },
+    {
+        "english": "lamp",
+        "german": "die Lampe"
+    },
+    {
+        "english": "light",
+        "german": "das Licht"
+    },
+    {
+        "english": "apartment",
+        "german": "die Wohnung"
+    },
+    {
+        "english": "window",
+        "german": "das Fenster"
+    },
+    {
+        "english": "door",
+        "german": "die T\u00fcr"
+    },
+    {
+        "english": "kitchen",
+        "german": "die K\u00fcche"
+    },
+    {
+        "english": "piece of furniture",
+        "german": "das M\u00f6bel"
+    },
+    {
+        "english": "to open",
+        "german": "\u00f6ffnen"
+    },
+    {
+        "english": "staircase, stairs",
+        "german": "die Treppe"
+    },
+    {
+        "english": "charger, battery charger",
+        "german": "das Ladeger\u00e4t"
+    },
+    {
+        "english": "key",
+        "german": "der Schl\u00fcssel"
+    },
+    {
+        "english": "bed",
+        "german": "das Bett"
+    },
+    {
+        "english": "chair",
+        "german": "der Stuhl"
+    },
+    {
+        "english": "table",
+        "german": "der Tisch"
+    },
+    {
+        "english": "sofa",
+        "german": "das Sofa"
+    },
+    {
+        "english": "wall",
+        "german": "die Wand"
+    },
+    {
+        "english": "bedroom",
+        "german": "das Schlafzimmer"
+    },
+    {
+        "english": "balcony",
+        "german": "der Balkon"
+    },
+    {
+        "english": "cellar",
+        "german": "der Keller"
+    },
+    {
+        "english": "cabinet, cupboard",
+        "german": "der Schrank"
+    },
+    {
+        "english": "blanketceiling",
+        "german": "die Decke"
+    },
+    {
+        "english": "living room",
+        "german": "das Wohnzimmer"
+    },
+    {
+        "english": "power outlet, socket",
+        "german": "die Steckdose"
+    },
+    {
+        "english": "carpet",
+        "german": "der Teppich"
+    },
+    {
+        "english": "fence",
+        "german": "der Zaun"
+    },
+    {
+        "english": "yet, however, after all",
+        "german": "doch"
+    },
+    {
+        "english": "and",
+        "german": "und"
+    },
+    {
+        "english": "because; as; since",
+        "german": "weil"
+    },
+    {
+        "english": "but rather",
+        "german": "sondern"
+    },
+    {
+        "english": "or",
+        "german": "oder"
+    },
+    {
+        "english": "as soon as",
+        "german": "sobald"
+    },
+    {
+        "english": "there, then",
+        "german": "da"
+    },
+    {
+        "english": "as long as",
+        "german": "solange"
+    },
+    {
+        "english": "either",
+        "german": "entweder"
+    },
+    {
+        "english": "although",
+        "german": "obwohl"
+    },
+    {
+        "english": "that",
+        "german": "dass"
+    },
+    {
+        "english": "because, then, for",
+        "german": "denn"
+    },
+    {
+        "english": "but",
+        "german": "aber"
+    },
+    {
+        "english": "when, if",
+        "german": "wenn"
+    },
+    {
+        "english": "people",
+        "german": "die Leute"
+    },
+    {
+        "english": "adult",
+        "german": "der Erwachsene"
+    },
+    {
+        "english": "gender",
+        "german": "das Geschlecht"
+    },
+    {
+        "english": "baby",
+        "german": "das Baby"
+    },
+    {
+        "english": "lady; woman",
+        "german": "die Dame"
+    },
+    {
+        "english": "vegetarian",
+        "german": "der Vegetarier"
+    },
+    {
+        "english": "gentleman",
+        "german": "der Herr"
+    },
+    {
+        "english": "member",
+        "german": "das Mitglied"
+    },
+    {
+        "english": "person",
+        "german": "die Person"
+    },
+    {
+        "english": "Turk; Turkish person",
+        "german": "der T\u00fcrke"
+    },
+    {
+        "english": "friend",
+        "german": "der Freund, die Freundin"
+    },
+    {
+        "english": "visitor",
+        "german": "der Besucher"
+    },
+    {
+        "english": "neighbour",
+        "german": "der Nachbar"
+    },
+    {
+        "english": "fan",
+        "german": "der Fan"
+    },
+    {
+        "english": "guest",
+        "german": "der Gast"
+    },
+    {
+        "english": "beginner",
+        "german": "der Anf\u00e4nger"
+    },
+    {
+        "english": "enemy",
+        "german": "der Feind"
+    },
+    {
+        "english": "first name",
+        "german": "der Vorname"
+    },
+    {
+        "english": "citizen",
+        "german": "der B\u00fcrger"
+    },
+    {
+        "english": "opponent",
+        "german": "der Gegner"
+    },
+    {
+        "english": "audience",
+        "german": "das Publikum"
+    },
+    {
+        "english": "group",
+        "german": "die Gruppe"
+    },
+    {
+        "english": "name",
+        "german": "der Name"
+    },
+    {
+        "english": "to ask, to interrogate",
+        "german": "fragen"
+    },
+    {
+        "english": "who",
+        "german": "wer"
+    },
+    {
+        "english": "which",
+        "german": "welch"
+    },
+    {
+        "english": "to answer, to respond",
+        "german": "antworten"
+    },
+    {
+        "english": "how many",
+        "german": "wie viele"
+    },
+    {
+        "english": "why; how so",
+        "german": "wieso"
+    },
+    {
+        "english": "like, howas",
+        "german": "wie"
+    },
+    {
+        "english": "answer",
+        "german": "die Antwort"
+    },
+    {
+        "english": "question",
+        "german": "die Frage"
+    },
+    {
+        "english": "what for",
+        "german": "wof\u00fcr"
+    },
+    {
+        "english": "when",
+        "german": "wann"
+    },
+    {
+        "english": "where",
+        "german": "wo"
+    },
+    {
+        "english": "whose",
+        "german": "wessen"
+    },
+    {
+        "english": "how much",
+        "german": "wie viel"
+    },
+    {
+        "english": "where to",
+        "german": "wohin"
+    },
+    {
+        "english": "why",
+        "german": "warum"
+    },
+    {
+        "english": "what about",
+        "german": "wor\u00fcber"
+    },
+    {
+        "english": "what",
+        "german": "was"
+    },
+    {
+        "english": "relationship",
+        "german": "die Beziehung"
+    },
+    {
+        "english": "siblings",
+        "german": "die Geschwister"
+    },
+    {
+        "english": "partner",
+        "german": "der Partner"
+    },
+    {
+        "english": "grandmother",
+        "german": "die Gro\u00dfmutter"
+    },
+    {
+        "english": "parents",
+        "german": "die Eltern"
+    },
+    {
+        "english": "daughter",
+        "german": "die Tochter"
+    },
+    {
+        "english": "sister",
+        "german": "die Schwester"
+    },
+    {
+        "english": "mum; ma",
+        "german": "die Mama"
+    },
+    {
+        "english": "dad",
+        "german": "der Papa"
+    },
+    {
+        "english": "grandpa, grandfather",
+        "german": "der Opa"
+    },
+    {
+        "english": "grandson; grandchild",
+        "german": "der Enkel"
+    },
+    {
+        "english": "son",
+        "german": "der Sohn"
+    },
+    {
+        "english": "brother",
+        "german": "der Bruder"
+    },
+    {
+        "english": "father",
+        "german": "der Vater"
+    },
+    {
+        "english": "mother",
+        "german": "die Mutter"
+    },
+    {
+        "english": "family",
+        "german": "die Familie"
+    },
+    {
+        "english": "grandma; grammy; granny",
+        "german": "die Oma"
+    },
+    {
+        "english": "grandfather",
+        "german": "der Gro\u00dfvater"
+    },
+    {
+        "english": "grandparents",
+        "german": "die Gro\u00dfeltern"
+    },
+    {
+        "english": "granddaughter",
+        "german": "die Enkelin"
+    },
+    {
+        "english": "against",
+        "german": "gegen"
+    },
+    {
+        "english": "for",
+        "german": "f\u00fcr"
+    },
+    {
+        "english": "around, at",
+        "german": "um"
+    },
+    {
+        "english": "along",
+        "german": "acc. + entlang"
+    },
+    {
+        "english": "without",
+        "german": "ohne"
+    },
+    {
+        "english": "through",
+        "german": "durch"
+    },
+    {
+        "english": "eleven",
+        "german": "elf"
+    },
+    {
+        "english": "twelve",
+        "german": "zw\u00f6lf"
+    },
+    {
+        "english": "ten",
+        "german": "zehn"
+    },
+    {
+        "english": "eight",
+        "german": "acht"
+    },
+    {
+        "english": "nine",
+        "german": "neun"
+    },
+    {
+        "english": "six",
+        "german": "sechs"
+    },
+    {
+        "english": "seven",
+        "german": "sieben"
+    },
+    {
+        "english": "fifteen",
+        "german": "f\u00fcnfzehn"
+    },
+    {
+        "english": "dozen",
+        "german": "das Dutzend"
+    },
+    {
+        "english": "nineteen",
+        "german": "neunzehn"
+    },
+    {
+        "english": "to count; to numberto pay",
+        "german": "z\u00e4hlen"
+    },
+    {
+        "english": "eighteen",
+        "german": "achtzehn"
+    },
+    {
+        "english": "five",
+        "german": "f\u00fcnf"
+    },
+    {
+        "english": "four",
+        "german": "vier"
+    },
+    {
+        "english": "digit, figure, number",
+        "german": "die Zahl"
+    },
+    {
+        "english": "sum",
+        "german": "die Summe"
+    },
+    {
+        "english": "telephone number",
+        "german": "die Telefonnummer"
+    },
+    {
+        "english": "three",
+        "german": "drei"
+    },
+    {
+        "english": "two",
+        "german": "zwei"
+    },
+    {
+        "english": "one",
+        "german": "eins"
+    },
+    {
+        "english": "fourteen",
+        "german": "vierzehn"
+    },
+    {
+        "english": "half",
+        "german": "die H\u00e4lfte"
+    },
+    {
+        "english": "seventeen",
+        "german": "siebzehn"
+    },
+    {
+        "english": "sixteen",
+        "german": "sechzehn"
+    },
+    {
+        "english": "thirteen",
+        "german": "dreizehn"
+    },
+    {
+        "english": "lunch",
+        "german": "das Mittagessen"
+    },
+    {
+        "english": "breakfast",
+        "german": "das Fr\u00fchst\u00fcck"
+    },
+    {
+        "english": "knife",
+        "german": "das Messer"
+    },
+    {
+        "english": "fork",
+        "german": "die Gabel"
+    },
+    {
+        "english": "to eat dinner",
+        "german": "zu Abend essen"
+    },
+    {
+        "english": "iron",
+        "german": "das Eisen"
+    },
+    {
+        "english": "to eat breakfast",
+        "german": "fr\u00fchst\u00fccken"
+    },
+    {
+        "english": "jam, marmalade",
+        "german": "die Marmelade"
+    },
+    {
+        "english": "butter",
+        "german": "die Butter"
+    },
+    {
+        "english": "nut",
+        "german": "die Nuss"
+    },
+    {
+        "english": "muesli, cereal",
+        "german": "das M\u00fcsli"
+    },
+    {
+        "english": "to cook",
+        "german": "kochen"
+    },
+    {
+        "english": "honey",
+        "german": "der Honig"
+    },
+    {
+        "english": "mushroom",
+        "german": "der Pilz"
+    },
+    {
+        "english": "salty",
+        "german": "salzig"
+    },
+    {
+        "english": "sour",
+        "german": "sauer"
+    },
+    {
+        "english": "to eat lunch",
+        "german": "zu Mittag essen"
+    },
+    {
+        "english": "menu; menu card",
+        "german": "die Speisekarte"
+    },
+    {
+        "english": "lemon",
+        "german": "die Zitrone"
+    },
+    {
+        "english": "drink, beverage",
+        "german": "das Getr\u00e4nk"
+    },
+    {
+        "english": "recipe",
+        "german": "das Rezept"
+    },
+    {
+        "english": "spoon",
+        "german": "der L\u00f6ffel"
+    },
+    {
+        "english": "bean",
+        "german": "die Bohne"
+    },
+    {
+        "english": "salad",
+        "german": "der Salat"
+    },
+    {
+        "english": "dessert",
+        "german": "der Nachtisch"
+    },
+    {
+        "english": "dinner",
+        "german": "das Abendessen"
+    },
+    {
+        "english": "hot, spicy",
+        "german": "scharf"
+    },
+    {
+        "english": "mustard",
+        "german": "der Senf"
+    },
+    {
+        "english": "garlic",
+        "german": "der Knoblauch"
+    },
+    {
+        "english": "onion",
+        "german": "die Zwiebel"
+    },
+    {
+        "english": "main course",
+        "german": "das Hauptgericht"
+    },
+    {
+        "english": "chicken meat",
+        "german": "das H\u00e4hnchen"
+    },
+    {
+        "english": "tomato",
+        "german": "die Tomate"
+    },
+    {
+        "english": "starter, appetiser",
+        "german": "die Vorspeise"
+    },
+    {
+        "english": "to show",
+        "german": "zeigen"
+    },
+    {
+        "english": "you",
+        "german": "dir"
+    },
+    {
+        "english": "to follow",
+        "german": "folgen"
+    },
+    {
+        "english": "to say",
+        "german": "sagen"
+    },
+    {
+        "english": "to belong; to belong to",
+        "german": "geh\u00f6ren"
+    },
+    {
+        "english": "tip, gratuity",
+        "german": "das Trinkgeld"
+    },
+    {
+        "english": "to give",
+        "german": "geben"
+    },
+    {
+        "english": "to help",
+        "german": "helfen"
+    },
+    {
+        "english": "me",
+        "german": "mir"
+    },
+    {
+        "english": "him, it",
+        "german": "ihm"
+    },
+    {
+        "english": "to thank, to give thanks",
+        "german": "danken"
+    },
+    {
+        "english": "you",
+        "german": "Ihnen"
+    },
+    {
+        "english": "them",
+        "german": "ihnen"
+    },
+    {
+        "english": "money",
+        "german": "das Geld"
+    },
+    {
+        "english": "euro",
+        "german": "der Euro"
+    },
+    {
+        "english": "dollar",
+        "german": "der Dollar"
+    },
+    {
+        "english": "cent",
+        "german": "der Cent"
+    },
+    {
+        "english": "to buy",
+        "german": "kaufen"
+    },
+    {
+        "english": "cash machine; ATM",
+        "german": "der Geldautomat"
+    },
+    {
+        "english": "franc",
+        "german": "der Franken"
+    },
+    {
+        "english": "rich",
+        "german": "reich"
+    },
+    {
+        "english": "to own",
+        "german": "besitzen"
+    },
+    {
+        "english": "to win; to profit",
+        "german": "gewinnen"
+    },
+    {
+        "english": "to transfer (money)",
+        "german": "\u00fcberweisen"
+    },
+    {
+        "english": "to cost, to taste, to sample",
+        "german": "kosten"
+    },
+    {
+        "english": "price, prize",
+        "german": "der Preis"
+    },
+    {
+        "english": "partnership",
+        "german": "die Partnerschaft"
+    },
+    {
+        "english": "pregnant",
+        "german": "schwanger"
+    },
+    {
+        "english": "married",
+        "german": "verheiratet"
+    },
+    {
+        "english": "half-sister",
+        "german": "die Halbschwester"
+    },
+    {
+        "english": "great-grandson, great-grandchild",
+        "german": "der Urenkel"
+    },
+    {
+        "english": "great-grandmother",
+        "german": "die Urgro\u00dfmutter"
+    },
+    {
+        "english": "twin",
+        "german": "der Zwilling"
+    },
+    {
+        "english": "relative",
+        "german": "der Verwandte"
+    },
+    {
+        "english": "cousin",
+        "german": "der Cousin"
+    },
+    {
+        "english": "wedding, marriage",
+        "german": "die Hochzeit"
+    },
+    {
+        "english": "nephew",
+        "german": "der Neffe"
+    },
+    {
+        "english": "half-brother",
+        "german": "der Halbbruder"
+    },
+    {
+        "english": "niece",
+        "german": "die Nichte"
+    },
+    {
+        "english": "aunt",
+        "german": "die Tante"
+    },
+    {
+        "english": "uncle",
+        "german": "der Onkel"
+    },
+    {
+        "english": "to",
+        "german": "zu"
+    },
+    {
+        "english": "on",
+        "german": "auf"
+    },
+    {
+        "english": "(in+dem contraction)",
+        "german": "im"
+    },
+    {
+        "english": "in front of; ago, ahead of, before",
+        "german": "vor"
+    },
+    {
+        "english": "aftertowards; toaccording to",
+        "german": "nach"
+    },
+    {
+        "english": "(\u00fcber&nbsp;+ das contraction)",
+        "german": "\u00fcbers"
+    },
+    {
+        "english": "(an+dem contraction)",
+        "german": "am"
+    },
+    {
+        "english": "of, from",
+        "german": "von"
+    },
+    {
+        "english": "at",
+        "german": "an"
+    },
+    {
+        "english": "(in+das contraction)",
+        "german": "ins"
+    },
+    {
+        "english": "above, over, about",
+        "german": "\u00fcber"
+    },
+    {
+        "english": "(bei+dem contraction)",
+        "german": "beim"
+    },
+    {
+        "english": "zu+dem contraction",
+        "german": "zum"
+    },
+    {
+        "english": "(zu+der contraction)",
+        "german": "zur"
+    },
+    {
+        "english": "(von+dem contraction)",
+        "german": "vom"
+    },
+    {
+        "english": "under; below; among",
+        "german": "unter"
+    },
+    {
+        "english": "by, at, with, in view of, on, in case of, on the occasion of",
+        "german": "bei"
+    },
+    {
+        "english": "with",
+        "german": "mit"
+    },
+    {
+        "english": "since; for",
+        "german": "seit"
+    },
+    {
+        "english": "(vor&nbsp;+ das contraction)",
+        "german": "vors"
+    },
+    {
+        "english": "(unter&nbsp;+ das contraction)",
+        "german": "unters"
+    },
+    {
+        "english": "hinter&nbsp;+ das contraction",
+        "german": "hinters"
+    },
+    {
+        "english": "behind, beyond, after, beneath",
+        "german": "hinter"
+    },
+    {
+        "english": "nose",
+        "german": "die Nase"
+    },
+    {
+        "english": "tooth",
+        "german": "der Zahn"
+    },
+    {
+        "english": "stomach",
+        "german": "der Magen"
+    },
+    {
+        "english": "arm",
+        "german": "der Arm"
+    },
+    {
+        "english": "to press, to squeeze",
+        "german": "dr\u00fccken"
+    },
+    {
+        "english": "shoulder",
+        "german": "die Schulter"
+    },
+    {
+        "english": "back",
+        "german": "der R\u00fccken"
+    },
+    {
+        "english": "foot",
+        "german": "der Fu\u00df"
+    },
+    {
+        "english": "body",
+        "german": "der K\u00f6rper"
+    },
+    {
+        "english": "hand",
+        "german": "die Hand"
+    },
+    {
+        "english": "face",
+        "german": "das Gesicht"
+    },
+    {
+        "english": "finger",
+        "german": "der Finger"
+    },
+    {
+        "english": "heart",
+        "german": "das Herz"
+    },
+    {
+        "english": "neck",
+        "german": "der Hals"
+    },
+    {
+        "english": "skin",
+        "german": "die Haut"
+    },
+    {
+        "english": "chest, breast",
+        "german": "die Brust"
+    },
+    {
+        "english": "mouth",
+        "german": "der Mund"
+    },
+    {
+        "english": "leg",
+        "german": "das Bein"
+    },
+    {
+        "english": "ear",
+        "german": "das Ohr"
+    },
+    {
+        "english": "hair",
+        "german": "das Haar"
+    },
+    {
+        "english": "blood",
+        "german": "das Blut"
+    },
+    {
+        "english": "eye",
+        "german": "das Auge"
+    },
+    {
+        "english": "head",
+        "german": "der Kopf"
+    },
+    {
+        "english": "to book",
+        "german": "buchen"
+    },
+    {
+        "english": "Africa",
+        "german": "Afrika"
+    },
+    {
+        "english": "Swiss",
+        "german": "Schweizer"
+    },
+    {
+        "english": "rental car",
+        "german": "der Mietwagen"
+    },
+    {
+        "english": "distance, routestretch",
+        "german": "die Strecke"
+    },
+    {
+        "english": "holiday",
+        "german": "der Urlaub"
+    },
+    {
+        "english": "town map",
+        "german": "der Stadtplan"
+    },
+    {
+        "english": "tourism",
+        "german": "der Tourismus"
+    },
+    {
+        "english": "way, path, road",
+        "german": "der Weg"
+    },
+    {
+        "english": "motorbike",
+        "german": "das Motorrad"
+    },
+    {
+        "english": "boat",
+        "german": "das Boot"
+    },
+    {
+        "english": "Great Britain",
+        "german": "Gro\u00dfbritannien"
+    },
+    {
+        "english": "flight",
+        "german": "der Flug"
+    },
+    {
+        "english": "France",
+        "german": "Frankreich"
+    },
+    {
+        "english": "bus stop",
+        "german": "die Bushaltestelle"
+    },
+    {
+        "english": "tour",
+        "german": "die Tour"
+    },
+    {
+        "english": "visit",
+        "german": "der Besuch"
+    },
+    {
+        "english": "ferry",
+        "german": "die F\u00e4hre"
+    },
+    {
+        "english": "tour guide, guidebook",
+        "german": "der Reisef\u00fchrer"
+    },
+    {
+        "english": "custom, duty, toll",
+        "german": "der Zoll"
+    },
+    {
+        "english": "car",
+        "german": "das Auto"
+    },
+    {
+        "english": "bicycle",
+        "german": "das Fahrrad"
+    },
+    {
+        "english": "to fly",
+        "german": "fliegen"
+    },
+    {
+        "english": "visa",
+        "german": "das Visum"
+    },
+    {
+        "english": "delay",
+        "german": "die Versp\u00e4tung"
+    },
+    {
+        "english": "tourist attraction",
+        "german": "die Sehensw\u00fcrdigkeit"
+    },
+    {
+        "english": "passport",
+        "german": "der Reisepass"
+    },
+    {
+        "english": "journey, trip",
+        "german": "die Reise"
+    },
+    {
+        "english": "Bavaria",
+        "german": "Bayern"
+    },
+    {
+        "english": "bus",
+        "german": "der Bus"
+    },
+    {
+        "english": "train",
+        "german": "der Zug"
+    },
+    {
+        "english": "Austria",
+        "german": "\u00d6sterreich"
+    },
+    {
+        "english": "Vienna",
+        "german": "Wien"
+    },
+    {
+        "english": "traffic",
+        "german": "der Verkehr"
+    },
+    {
+        "english": "journey, trip, ride",
+        "german": "die Fahrt"
+    },
+    {
+        "english": "Spain",
+        "german": "Spanien"
+    },
+    {
+        "english": "adventure",
+        "german": "das Abenteuer"
+    },
+    {
+        "english": "Switzerland",
+        "german": "die Schweiz"
+    },
+    {
+        "english": "Italy",
+        "german": "Italien"
+    },
+    {
+        "english": "train, railroad, railway",
+        "german": "die Bahn"
+    },
+    {
+        "english": "holidays",
+        "german": "die Ferien"
+    },
+    {
+        "english": "Sweden",
+        "german": "Schweden"
+    },
+    {
+        "english": "something",
+        "german": "irgendwas"
+    },
+    {
+        "english": "somehow",
+        "german": "irgendwie"
+    },
+    {
+        "english": "somebody",
+        "german": "irgendwer"
+    },
+    {
+        "english": "sometime",
+        "german": "irgendwann"
+    },
+    {
+        "english": "somewhere",
+        "german": "irgendwo"
+    },
+    {
+        "english": "shopping centre, mall",
+        "german": "das Einkaufszentrum"
+    },
+    {
+        "english": "coupon",
+        "german": "der Gutschein"
+    },
+    {
+        "english": "business",
+        "german": "das Gesch\u00e4ft"
+    },
+    {
+        "english": "cash register, cash, cashbox",
+        "german": "die Kasse"
+    },
+    {
+        "english": "special offer, bargain",
+        "german": "das Sonderangebot"
+    },
+    {
+        "english": "customer",
+        "german": "der Kunde, die Kundin"
+    },
+    {
+        "english": "to sell",
+        "german": "verkaufen"
+    },
+    {
+        "english": "supermarket",
+        "german": "der Supermarkt"
+    },
+    {
+        "english": "cart, trolley",
+        "german": "der Einkaufswagen"
+    },
+    {
+        "english": "gratis, free, costless",
+        "german": "gratis"
+    },
+    {
+        "english": "bag",
+        "german": "die T\u00fcte"
+    },
+    {
+        "english": "bakery",
+        "german": "die B\u00e4ckerei"
+    },
+    {
+        "english": "shop",
+        "german": "der Laden"
+    },
+    {
+        "english": "cheap, inexpensive",
+        "german": "billig"
+    },
+    {
+        "english": "marketplace",
+        "german": "der Marktplatz"
+    },
+    {
+        "english": "to shop",
+        "german": "einkaufen"
+    },
+    {
+        "english": "pharmacy",
+        "german": "die Apotheke"
+    },
+    {
+        "english": "thirty",
+        "german": "drei\u00dfig"
+    },
+    {
+        "english": "billion",
+        "german": "die Milliarde"
+    },
+    {
+        "english": "eighty",
+        "german": "achtzig"
+    },
+    {
+        "english": "twenty one",
+        "german": "einundzwanzig"
+    },
+    {
+        "english": "hundred",
+        "german": "hun\u00addert"
+    },
+    {
+        "english": "meter",
+        "german": "der Meter"
+    },
+    {
+        "english": "twenty",
+        "german": "zwanzig"
+    },
+    {
+        "english": "sixty",
+        "german": "sechzig"
+    },
+    {
+        "english": "thousand",
+        "german": "tausend"
+    },
+    {
+        "english": "percent",
+        "german": "das Prozent"
+    },
+    {
+        "english": "fifty",
+        "german": "f\u00fcnfzig"
+    },
+    {
+        "english": "forty",
+        "german": "vierzig"
+    },
+    {
+        "english": "million",
+        "german": "die Million"
+    },
+    {
+        "english": "ninety",
+        "german": "neunzig"
+    },
+    {
+        "english": "litre",
+        "german": "der Liter"
+    },
+    {
+        "english": "seventy",
+        "german": "siebzig"
+    },
+    {
+        "english": "green",
+        "german": "gr\u00fcn"
+    },
+    {
+        "english": "blue",
+        "german": "blau"
+    },
+    {
+        "english": "colour",
+        "german": "die Farbe"
+    },
+    {
+        "english": "red",
+        "german": "rot"
+    },
+    {
+        "english": "black",
+        "german": "schwarz"
+    },
+    {
+        "english": "yellow",
+        "german": "gelb"
+    },
+    {
+        "english": "hot pink; bright pink",
+        "german": "pink"
+    },
+    {
+        "english": "grey",
+        "german": "grau"
+    },
+    {
+        "english": "white",
+        "german": "wei\u00df"
+    },
+    {
+        "english": "colourful",
+        "german": "bunt"
+    },
+    {
+        "english": "brown",
+        "german": "braun"
+    },
+    {
+        "english": "senior, elderly person",
+        "german": "der Senior"
+    },
+    {
+        "english": "teacher",
+        "german": "der Lehrer"
+    },
+    {
+        "english": "doctor",
+        "german": "der Arzt, die Arztin"
+    },
+    {
+        "english": "pupil, schoolboy",
+        "german": "der Sch\u00fcler"
+    },
+    {
+        "english": "student",
+        "german": "der Student"
+    },
+    {
+        "english": "work",
+        "german": "die Arbeit"
+    },
+    {
+        "english": "employee; worker",
+        "german": "der Arbeitnehmer"
+    },
+    {
+        "english": "service, waiter, waitress",
+        "german": "die Bedienung"
+    },
+    {
+        "english": "cook",
+        "german": "der Koch"
+    },
+    {
+        "english": "farmer",
+        "german": "der Bauer"
+    },
+    {
+        "english": "architect",
+        "german": "der Architekt"
+    },
+    {
+        "english": "master, champion",
+        "german": "der Meister"
+    },
+    {
+        "english": "trader, merchant",
+        "german": "der H\u00e4ndler"
+    },
+    {
+        "english": "coach",
+        "german": "der Trainer"
+    },
+    {
+        "english": "author, writer",
+        "german": "der Autor"
+    },
+    {
+        "english": "mayor",
+        "german": "der B\u00fcrgermeister"
+    },
+    {
+        "english": "employer",
+        "german": "der Arbeitgeber"
+    },
+    {
+        "english": "manager; managing director",
+        "german": "der Gesch\u00e4ftsf\u00fchrer"
+    },
+    {
+        "english": "boss, chief, director",
+        "german": "der Chef"
+    },
+    {
+        "english": "baker",
+        "german": "der B\u00e4cker, die B\u00e4ckerin"
+    },
+    {
+        "english": "fire brigade",
+        "german": "die Feuerwehr"
+    },
+    {
+        "english": "professor",
+        "german": "der Professor"
+    },
+    {
+        "english": "salesperson",
+        "german": "der Verk\u00e4ufer"
+    },
+    {
+        "english": "colleague; co-worker; staff; employee",
+        "german": "der Mitarbeiter"
+    },
+    {
+        "english": "driver",
+        "german": "der Fahrer"
+    },
+    {
+        "english": "occupation; career",
+        "german": "der Beruf"
+    },
+    {
+        "english": "to lie; to lie down",
+        "german": "liegen"
+    },
+    {
+        "english": "inclusively, including",
+        "german": "einschlie\u00dflich"
+    },
+    {
+        "english": "because of",
+        "german": "wegen"
+    },
+    {
+        "english": "now and then, from time to time, occasionally",
+        "german": "ab und zu"
+    },
+    {
+        "english": "between",
+        "german": "zwischen"
+    },
+    {
+        "english": "in",
+        "german": "in"
+    },
+    {
+        "english": "to sit",
+        "german": "sitzen"
+    },
+    {
+        "english": "(auf+das contraction)",
+        "german": "aufs"
+    },
+    {
+        "english": "um+das contraction",
+        "german": "ums"
+    },
+    {
+        "english": "apart from, except",
+        "german": "au\u00dfer"
+    },
+    {
+        "english": "while, during",
+        "german": "w\u00e4hrend"
+    },
+    {
+        "english": "beside, next to",
+        "german": "neben"
+    },
+    {
+        "english": "from",
+        "german": "ab"
+    },
+    {
+        "english": "stone",
+        "german": "der Stein"
+    },
+    {
+        "english": "gold",
+        "german": "das Gold"
+    },
+    {
+        "english": "wood",
+        "german": "das Holz"
+    },
+    {
+        "english": "steel",
+        "german": "der Stahl"
+    },
+    {
+        "english": "metal",
+        "german": "das Metall"
+    },
+    {
+        "english": "leather",
+        "german": "das Leder"
+    },
+    {
+        "english": "plastic",
+        "german": "das Plastik"
+    },
+    {
+        "english": "wool",
+        "german": "die Wolle"
+    },
+    {
+        "english": "cotton",
+        "german": "die Baumwolle"
+    },
+    {
+        "english": "cardboard",
+        "german": "die Pappe"
+    },
+    {
+        "english": "silver",
+        "german": "das Silber"
+    },
+    {
+        "english": "sand",
+        "german": "der Sand"
+    },
+    {
+        "english": "glass",
+        "german": "das Glas"
+    },
+    {
+        "english": "copper",
+        "german": "das Kupfer"
+    },
+    {
+        "english": "wall, mural",
+        "german": "die Mauer"
+    },
+    {
+        "english": "concrete",
+        "german": "der Beton"
+    },
+    {
+        "english": "paper",
+        "german": "das Papier"
+    },
+    {
+        "english": "similar, like",
+        "german": "\u00e4hnlich"
+    },
+    {
+        "english": "fourth",
+        "german": "vierte"
+    },
+    {
+        "english": "fifth",
+        "german": "f\u00fcnfte"
+    },
+    {
+        "english": "sixth",
+        "german": "sechste"
+    },
+    {
+        "english": "first",
+        "german": "erste"
+    },
+    {
+        "english": "seventh",
+        "german": "siebte"
+    },
+    {
+        "english": "third",
+        "german": "dritte"
+    },
+    {
+        "english": "second; 2nd",
+        "german": "zweite"
+    },
+    {
+        "english": "mathematics",
+        "german": "die Mathematik"
+    },
+    {
+        "english": "more beautiful",
+        "german": "sch\u00f6ner"
+    },
+    {
+        "english": "biggest, largest",
+        "german": "gr\u00f6\u00dfte"
+    },
+    {
+        "english": "more important",
+        "german": "wichtiger"
+    },
+    {
+        "english": "easier, lighter",
+        "german": "leichter"
+    },
+    {
+        "english": "stronger",
+        "german": "st\u00e4rker"
+    },
+    {
+        "english": "size",
+        "german": "die Gr\u00f6\u00dfe"
+    },
+    {
+        "english": "longer",
+        "german": "l\u00e4nger"
+    },
+    {
+        "english": "better",
+        "german": "besser"
+    },
+    {
+        "english": "smaller",
+        "german": "kleiner"
+    },
+    {
+        "english": "enough",
+        "german": "genug"
+    },
+    {
+        "english": "slower",
+        "german": "langsamer"
+    },
+    {
+        "english": "higher",
+        "german": "h\u00f6her"
+    },
+    {
+        "english": "more expensive",
+        "german": "teurer"
+    },
+    {
+        "english": "bigger",
+        "german": "gr\u00f6\u00dfer"
+    },
+    {
+        "english": "smallest",
+        "german": "kleinste"
+    },
+    {
+        "english": "snail",
+        "german": "die Schnecke"
+    },
+    {
+        "english": "than",
+        "german": "als"
+    },
+    {
+        "english": "very",
+        "german": "sehr"
+    },
+    {
+        "english": "normally",
+        "german": "normalerweise"
+    },
+    {
+        "english": "super",
+        "german": "super"
+    },
+    {
+        "english": "quite, rather, fairly",
+        "german": "ziemlich"
+    },
+    {
+        "english": "wholely, completely, entirely",
+        "german": "ganz"
+    },
+    {
+        "english": "usual, usually",
+        "german": "gew\u00f6hnlich"
+    },
+    {
+        "english": "best",
+        "german": "beste"
+    },
+    {
+        "english": "rather, sooner",
+        "german": "eher"
+    },
+    {
+        "english": "heating, radiator, heater",
+        "german": "die Heizung"
+    },
+    {
+        "english": "bath",
+        "german": "das Bad"
+    },
+    {
+        "english": "cup",
+        "german": "die Tasse"
+    },
+    {
+        "english": "toothpaste",
+        "german": "die Zahnpasta"
+    },
+    {
+        "english": "household, budget",
+        "german": "der Haushalt"
+    },
+    {
+        "english": "household appliance",
+        "german": "das Haushaltsger\u00e4t"
+    },
+    {
+        "english": "mirror",
+        "german": "der Spiegel"
+    },
+    {
+        "english": "room; space",
+        "german": "der Raum"
+    },
+    {
+        "english": "plate",
+        "german": "der Teller"
+    },
+    {
+        "english": "empty, vacant, blank",
+        "german": "leer"
+    },
+    {
+        "english": "full",
+        "german": "voll"
+    },
+    {
+        "english": "shower gel",
+        "german": "das Duschgel"
+    },
+    {
+        "english": "backpack, rucksack",
+        "german": "der Rucksack"
+    },
+    {
+        "english": "bowl",
+        "german": "die Sch\u00fcssel"
+    },
+    {
+        "english": "appliance, device",
+        "german": "das Ger\u00e4t"
+    },
+    {
+        "english": "fridge; refrigerator",
+        "german": "der K\u00fchlschrank"
+    },
+    {
+        "english": "to shower, to take a shower",
+        "german": "duschen"
+    },
+    {
+        "english": "toilet",
+        "german": "die Toilette"
+    },
+    {
+        "english": "relocation, move",
+        "german": "der Umzug"
+    },
+    {
+        "english": "gate, goal, gateway",
+        "german": "das Tor"
+    },
+    {
+        "english": "towel",
+        "german": "das Handtuch"
+    },
+    {
+        "english": "soap",
+        "german": "die Seife"
+    },
+    {
+        "english": "toothbrush",
+        "german": "die Zahnb\u00fcrste"
+    },
+    {
+        "english": "ladder",
+        "german": "die Leiter"
+    },
+    {
+        "english": "battery",
+        "german": "die Batterie"
+    },
+    {
+        "english": "shower",
+        "german": "die Dusche"
+    },
+    {
+        "english": "bottle",
+        "german": "die Flasche"
+    },
+    {
+        "english": "razor",
+        "german": "der Rasierer"
+    },
+    {
+        "english": "cardboard box",
+        "german": "der Karton"
+    },
+    {
+        "english": "shampoo",
+        "german": "das Shampoo"
+    },
+    {
+        "english": "sleep",
+        "german": "der Schlaf"
+    },
+    {
+        "english": "cleaning",
+        "german": "die Reinigung"
+    },
+    {
+        "english": "daily",
+        "german": "t\u00e4glich"
+    },
+    {
+        "english": "at the latest",
+        "german": "sp\u00e4testens"
+    },
+    {
+        "english": "afterwards",
+        "german": "danach"
+    },
+    {
+        "english": "end",
+        "german": "das Ende"
+    },
+    {
+        "english": "meanwhile, in the meantime, by now",
+        "german": "inzwischen"
+    },
+    {
+        "english": "finally",
+        "german": "endlich"
+    },
+    {
+        "english": "weekend",
+        "german": "das Wochenende"
+    },
+    {
+        "english": "future",
+        "german": "die Zukunft"
+    },
+    {
+        "english": "until, to",
+        "german": "bis"
+    },
+    {
+        "english": "Tuesday",
+        "german": "der Dienstag"
+    },
+    {
+        "english": "Monday",
+        "german": "der Montag"
+    },
+    {
+        "english": "day",
+        "german": "der Tag"
+    },
+    {
+        "english": "week",
+        "german": "die Woche"
+    },
+    {
+        "english": "Thursday",
+        "german": "der Donnerstag"
+    },
+    {
+        "english": "Wednesday",
+        "german": "der Mittwoch"
+    },
+    {
+        "english": "beginning, start",
+        "german": "der Anfang"
+    },
+    {
+        "english": "soon",
+        "german": "bald"
+    },
+    {
+        "english": "weekday",
+        "german": "der Werktag"
+    },
+    {
+        "english": "daily routine",
+        "german": "der Alltag"
+    },
+    {
+        "english": "the past",
+        "german": "die Vergangenheit"
+    },
+    {
+        "english": "Sunday",
+        "german": "der Sonntag"
+    },
+    {
+        "english": "Saturday",
+        "german": "der Samstag"
+    },
+    {
+        "english": "Friday",
+        "german": "der Freitag"
+    },
+    {
+        "english": "weekly",
+        "german": "w\u00f6chentlich"
+    },
+    {
+        "english": "soft, smooth",
+        "german": "weich"
+    },
+    {
+        "english": "hard, severe",
+        "german": "hart"
+    },
+    {
+        "english": "strange, funny",
+        "german": "komisch"
+    },
+    {
+        "english": "strange, odd, peculiar",
+        "german": "seltsam"
+    },
+    {
+        "english": "popular",
+        "german": "beliebt"
+    },
+    {
+        "english": "collectively, common, together",
+        "german": "gemeinsam"
+    },
+    {
+        "english": "ready",
+        "german": "bereit"
+    },
+    {
+        "english": "general, universal",
+        "german": "allgemein"
+    },
+    {
+        "english": "private",
+        "german": "privat"
+    },
+    {
+        "english": "scarce, barely",
+        "german": "knapp"
+    },
+    {
+        "english": "active",
+        "german": "aktiv"
+    },
+    {
+        "english": "extreme",
+        "german": "extrem"
+    },
+    {
+        "english": "complete",
+        "german": "komplett"
+    },
+    {
+        "english": "genuine, real, really",
+        "german": "echt"
+    },
+    {
+        "english": "broken",
+        "german": "kaputt"
+    },
+    {
+        "english": "automatic",
+        "german": "automatisch"
+    },
+    {
+        "english": "fit",
+        "german": "fit"
+    },
+    {
+        "english": "sudden, suddenly",
+        "german": "pl\u00f6tzlich"
+    },
+    {
+        "english": "original",
+        "german": "original"
+    },
+    {
+        "english": "open",
+        "german": "offen"
+    },
+    {
+        "english": "relative",
+        "german": "relativ"
+    },
+    {
+        "english": "does not matter, insignificant, equal",
+        "german": "egal"
+    },
+    {
+        "english": "helpful, useful",
+        "german": "hilfreich"
+    },
+    {
+        "english": "firm, solid",
+        "german": "fest"
+    },
+    {
+        "english": "false",
+        "german": "falsch"
+    },
+    {
+        "english": "meaningful; useful",
+        "german": "sinnvoll"
+    },
+    {
+        "english": "worth",
+        "german": "wert"
+    },
+    {
+        "english": "excellent",
+        "german": "ausgezeichnet"
+    },
+    {
+        "english": "actually",
+        "german": "tats\u00e4chlich"
+    },
+    {
+        "english": "responsible, in charge, relevant, competent, appropriate, concerned",
+        "german": "zust\u00e4ndig"
+    },
+    {
+        "english": "responsible",
+        "german": "verantwortlich"
+    },
+    {
+        "english": "regional",
+        "german": "regional"
+    },
+    {
+        "english": "here",
+        "german": "hier"
+    },
+    {
+        "english": "over there, beyond",
+        "german": "dr\u00fcben"
+    },
+    {
+        "english": "indoors, inside",
+        "german": "drinnen"
+    },
+    {
+        "english": "next door",
+        "german": "nebenan"
+    },
+    {
+        "english": "outdoors, outside",
+        "german": "drau\u00dfen"
+    },
+    {
+        "english": "there",
+        "german": "dort"
+    },
+    {
+        "english": "behind, at the back",
+        "german": "hinten"
+    },
+    {
+        "english": "outside",
+        "german": "au\u00dfen"
+    },
+    {
+        "english": "up, upstairs, at the top",
+        "german": "oben"
+    },
+    {
+        "english": "in front, front",
+        "german": "vorne"
+    },
+    {
+        "english": "below, beneath, downstairs",
+        "german": "unten"
+    },
+    {
+        "english": "everywhere",
+        "german": "\u00fcberall"
+    },
+    {
+        "english": "self-evident, obvious",
+        "german": "selbstverst\u00e4ndlich"
+    },
+    {
+        "english": "fully, totally, completely",
+        "german": "v\u00f6llig"
+    },
+    {
+        "english": "personal",
+        "german": "pers\u00f6nlich"
+    },
+    {
+        "english": "recent, recently",
+        "german": "k\u00fcrzlich"
+    },
+    {
+        "english": "enthusiastic",
+        "german": "begeistert"
+    },
+    {
+        "english": "essential",
+        "german": "wesentlich"
+    },
+    {
+        "english": "useful",
+        "german": "n\u00fctzlich"
+    },
+    {
+        "english": "possible",
+        "german": "m\u00f6glich"
+    },
+    {
+        "english": "positive",
+        "german": "positiv"
+    },
+    {
+        "english": "impossible",
+        "german": "unm\u00f6glich"
+    },
+    {
+        "english": "invisible",
+        "german": "unsichtbar"
+    },
+    {
+        "english": "individual",
+        "german": "individuell"
+    },
+    {
+        "english": "satisfied",
+        "german": "zufrieden"
+    },
+    {
+        "english": "available; online",
+        "german": "verf\u00fcgbar"
+    },
+    {
+        "english": "dependent",
+        "german": "abh\u00e4ngig"
+    },
+    {
+        "english": "obliged, committed",
+        "german": "verpflichtet"
+    },
+    {
+        "english": "unambiguous; clear",
+        "german": "eindeutig"
+    },
+    {
+        "english": "clear",
+        "german": "deutlich"
+    },
+    {
+        "english": "independent",
+        "german": "unabh\u00e4ngig"
+    },
+    {
+        "english": "unknown",
+        "german": "unbekannt"
+    },
+    {
+        "english": "probable",
+        "german": "wahrscheinlich"
+    },
+    {
+        "english": "practical",
+        "german": "praktisch"
+    },
+    {
+        "english": "well-known",
+        "german": "bekannt"
+    },
+    {
+        "english": "international",
+        "german": "international"
+    },
+    {
+        "english": "necessary",
+        "german": "notwendig"
+    },
+    {
+        "english": "free; costless",
+        "german": "kostenlos"
+    },
+    {
+        "english": "visible",
+        "german": "sichtbar"
+    },
+    {
+        "english": "capital city",
+        "german": "die Hauptstadt"
+    },
+    {
+        "english": "the inside",
+        "german": "das Innere"
+    },
+    {
+        "english": "place, site, town",
+        "german": "der Ort"
+    },
+    {
+        "english": "federal state",
+        "german": "das Bundesland"
+    },
+    {
+        "english": "bar",
+        "german": "die Bar"
+    },
+    {
+        "english": "area",
+        "german": "der Bereich"
+    },
+    {
+        "english": "district",
+        "german": "der Bezirk"
+    },
+    {
+        "english": "surroundings, neighbourhood, background, environment",
+        "german": "die Umgebung"
+    },
+    {
+        "english": "accommodation",
+        "german": "die Unterkunft"
+    },
+    {
+        "english": "headquarters, head office",
+        "german": "die Zentrale"
+    },
+    {
+        "english": "center, centre",
+        "german": "das Zentrum"
+    },
+    {
+        "english": "opposite",
+        "german": "gegen\u00fcber"
+    },
+    {
+        "english": "to reside; to stay; to live",
+        "german": "wohnen"
+    },
+    {
+        "english": "pub, bar, tavern",
+        "german": "die Kneipe"
+    },
+    {
+        "english": "foreign country",
+        "german": "das Ausland"
+    },
+    {
+        "english": "island",
+        "german": "die Insel"
+    },
+    {
+        "english": "site, location",
+        "german": "der Standort"
+    },
+    {
+        "english": "square",
+        "german": "der Platz"
+    },
+    {
+        "english": "guesthouse, pension, retirement",
+        "german": "die Pension"
+    },
+    {
+        "english": "region",
+        "german": "die Region"
+    },
+    {
+        "english": "hall, lobby",
+        "german": "die Halle"
+    },
+    {
+        "english": "property, plot of land",
+        "german": "das Grundst\u00fcck"
+    },
+    {
+        "english": "reason, ground",
+        "german": "der Grund"
+    },
+    {
+        "english": "town centre, downtown",
+        "german": "die Innenstadt"
+    },
+    {
+        "english": "airport",
+        "german": "der Flughafen"
+    },
+    {
+        "english": "surface, area",
+        "german": "die Fl\u00e4che"
+    },
+    {
+        "english": "holiday/vacation home",
+        "german": "das Ferienhaus"
+    },
+    {
+        "english": "Europe",
+        "german": "Europa"
+    },
+    {
+        "english": "courtyard",
+        "german": "der Hof"
+    },
+    {
+        "english": "homeland, home, native country",
+        "german": "die Heimat"
+    },
+    {
+        "english": "ambulance",
+        "german": "der Krankenwagen"
+    },
+    {
+        "english": "wheelchair",
+        "german": "der Rollstuhl"
+    },
+    {
+        "english": "dentist",
+        "german": "der Zahnarzt"
+    },
+    {
+        "english": "sick",
+        "german": "krank"
+    },
+    {
+        "english": "examination, investigation",
+        "german": "die Untersuchung"
+    },
+    {
+        "english": "patient",
+        "german": "der Patient"
+    },
+    {
+        "english": "to bleed",
+        "german": "bluten"
+    },
+    {
+        "english": "form; document",
+        "german": "das Formular"
+    },
+    {
+        "english": "victim",
+        "german": "das Opfer"
+    },
+    {
+        "english": "accident",
+        "german": "der Unfall"
+    },
+    {
+        "english": "plaster; band-aid",
+        "german": "das Pflaster"
+    },
+    {
+        "english": "medicine",
+        "german": "die Medizin"
+    },
+    {
+        "english": "practice",
+        "german": "die Praxis"
+    },
+    {
+        "english": "health insurance",
+        "german": "die Krankenversicherung"
+    },
+    {
+        "english": "emergency",
+        "german": "der Notfall"
+    },
+    {
+        "english": "nutrition",
+        "german": "die Ern\u00e4hrung"
+    },
+    {
+        "english": "hospital",
+        "german": "das Krankenhaus"
+    },
+    {
+        "english": "clinic",
+        "german": "die Klinik"
+    },
+    {
+        "english": "therapy",
+        "german": "die Therapie"
+    },
+    {
+        "english": "diet",
+        "german": "die Di\u00e4t"
+    },
+    {
+        "english": "alcohol",
+        "german": "der Alkohol"
+    },
+    {
+        "english": "medication",
+        "german": "das Medikament"
+    },
+    {
+        "english": "health",
+        "german": "die Gesundheit"
+    },
+    {
+        "english": "illness, disease",
+        "german": "die Krankheit"
+    },
+    {
+        "english": "to hope",
+        "german": "hoffen"
+    },
+    {
+        "english": "to replace",
+        "german": "ersetzen"
+    },
+    {
+        "english": "to accept",
+        "german": "akzeptieren"
+    },
+    {
+        "english": "to take",
+        "german": "nehmen"
+    },
+    {
+        "english": "to steal",
+        "german": "stehlen"
+    },
+    {
+        "english": "to think",
+        "german": "meinen"
+    },
+    {
+        "english": "to sing",
+        "german": "singen"
+    },
+    {
+        "english": "to close",
+        "german": "schlie\u00dfen"
+    },
+    {
+        "english": "to order",
+        "german": "bestellen"
+    },
+    {
+        "english": "to be pleasing",
+        "german": "gefallen"
+    },
+    {
+        "english": "to be able to",
+        "german": "k\u00f6nnen"
+    },
+    {
+        "english": "to lack",
+        "german": "fehlen"
+    },
+    {
+        "english": "to function",
+        "german": "funktionieren"
+    },
+    {
+        "english": "to wait",
+        "german": "warten"
+    },
+    {
+        "english": "to collect",
+        "german": "sammeln"
+    },
+    {
+        "english": "to look, to watch",
+        "german": "schauen"
+    },
+    {
+        "english": "to seem, to shine",
+        "german": "scheinen"
+    },
+    {
+        "english": "to meet",
+        "german": "treffen"
+    },
+    {
+        "english": "to search",
+        "german": "suchen"
+    },
+    {
+        "english": "to hold, to keep, to retain",
+        "german": "halten"
+    },
+    {
+        "english": "to test, to prove, to examine",
+        "german": "pr\u00fcfen"
+    },
+    {
+        "english": "to recognize, to realize, to detect",
+        "german": "erkennen"
+    },
+    {
+        "english": "to rise",
+        "german": "steigen"
+    },
+    {
+        "english": "to stay",
+        "german": "bleiben"
+    },
+    {
+        "english": "to stroll",
+        "german": "spazieren"
+    },
+    {
+        "english": "to subscribe",
+        "german": "abonnieren"
+    },
+    {
+        "english": "to believe",
+        "german": "glauben"
+    },
+    {
+        "english": "to expand",
+        "german": "erweitern"
+    },
+    {
+        "english": "to take over, to undertake, to assume, to accept",
+        "german": "\u00fcbernehmen"
+    },
+    {
+        "english": "to know",
+        "german": "wissen"
+    },
+    {
+        "english": "to stand",
+        "german": "stehen"
+    },
+    {
+        "english": "to work",
+        "german": "arbeiten"
+    },
+    {
+        "english": "to find",
+        "german": "finden"
+    },
+    {
+        "english": "to change",
+        "german": "\u00e4ndern"
+    },
+    {
+        "english": "to happen",
+        "german": "passieren"
+    },
+    {
+        "english": "to allow",
+        "german": "erlauben"
+    },
+    {
+        "english": "season",
+        "german": "die Jahreszeit"
+    },
+    {
+        "english": "date",
+        "german": "das Datum"
+    },
+    {
+        "english": "monthly",
+        "german": "monatlich"
+    },
+    {
+        "english": "yearly",
+        "german": "j\u00e4hrlich"
+    },
+    {
+        "english": "ending, conclusion",
+        "german": "der Schluss"
+    },
+    {
+        "english": "cool, chilly",
+        "german": "k\u00fchl"
+    },
+    {
+        "english": "October",
+        "german": "der Oktober"
+    },
+    {
+        "english": "November",
+        "german": "der November"
+    },
+    {
+        "english": "quarter year",
+        "german": "das Quartal"
+    },
+    {
+        "english": "over (finished), past",
+        "german": "vorbei"
+    },
+    {
+        "english": "February",
+        "german": "der Februar"
+    },
+    {
+        "english": "March",
+        "german": "der M\u00e4rz"
+    },
+    {
+        "english": "phase",
+        "german": "die Phase"
+    },
+    {
+        "english": "May",
+        "german": "der Mai"
+    },
+    {
+        "english": "June",
+        "german": "der Juni"
+    },
+    {
+        "english": "July",
+        "german": "der Juli"
+    },
+    {
+        "english": "century",
+        "german": "das Jahrhundert"
+    },
+    {
+        "english": "September",
+        "german": "der September"
+    },
+    {
+        "english": "hot",
+        "german": "hei\u00df"
+    },
+    {
+        "english": "month",
+        "german": "der Monat"
+    },
+    {
+        "english": "Winter",
+        "german": "der Winter"
+    },
+    {
+        "english": "year",
+        "german": "das Jahr"
+    },
+    {
+        "english": "age",
+        "german": "das Alter"
+    },
+    {
+        "english": "April",
+        "german": "der April"
+    },
+    {
+        "english": "birthday",
+        "german": "der Geburtstag"
+    },
+    {
+        "english": "to end",
+        "german": "enden"
+    },
+    {
+        "english": "Christmas",
+        "german": "das Weihnachten"
+    },
+    {
+        "english": "December",
+        "german": "der Dezember"
+    },
+    {
+        "english": "January",
+        "german": "der Januar"
+    },
+    {
+        "english": "season",
+        "german": "die Saison"
+    },
+    {
+        "english": "August",
+        "german": "der August"
+    },
+    {
+        "english": "autumn",
+        "german": "der Herbst"
+    },
+    {
+        "english": "summer",
+        "german": "der Sommer"
+    },
+    {
+        "english": "asparagus",
+        "german": "der Spargel"
+    },
+    {
+        "english": "spring",
+        "german": "der Fr\u00fchling"
+    },
+    {
+        "english": "calendar",
+        "german": "der Kalender"
+    },
+    {
+        "english": "last",
+        "german": "letzte"
+    },
+    {
+        "english": "club, association, union",
+        "german": "der Verein"
+    },
+    {
+        "english": "youth",
+        "german": "die Jugend"
+    },
+    {
+        "english": "connection (e.g. train), link, alliance",
+        "german": "die Verbindung"
+    },
+    {
+        "english": "relationship, affair",
+        "german": "das Verh\u00e4ltnis"
+    },
+    {
+        "english": "to visit",
+        "german": "besuchen"
+    },
+    {
+        "english": "public",
+        "german": "die \u00d6ffentlichkeit"
+    },
+    {
+        "english": "inhabitant; resident",
+        "german": "der Einwohner"
+    },
+    {
+        "english": "community",
+        "german": "die Gemeinde"
+    },
+    {
+        "english": "membership",
+        "german": "die Mitgliedschaft"
+    },
+    {
+        "english": "user",
+        "german": "der Nutzer"
+    },
+    {
+        "english": "population",
+        "german": "die Bev\u00f6lkerung"
+    },
+    {
+        "english": "pair",
+        "german": "das Paar"
+    },
+    {
+        "english": "to talk, to speak, to discourse, to orate, to converse",
+        "german": "reden"
+    },
+    {
+        "english": "to apply to, to concernto be correct",
+        "german": "zutreffen"
+    },
+    {
+        "english": "to forget",
+        "german": "vergessen"
+    },
+    {
+        "english": "to love",
+        "german": "lieben"
+    },
+    {
+        "english": "to notice",
+        "german": "merken"
+    },
+    {
+        "english": "to explain",
+        "german": "erkl\u00e4ren"
+    },
+    {
+        "english": "to offer",
+        "german": "bieten"
+    },
+    {
+        "english": "to become",
+        "german": "werden"
+    },
+    {
+        "english": "to solve, to free",
+        "german": "l\u00f6sen"
+    },
+    {
+        "english": "to advise, to discuss",
+        "german": "beraten"
+    },
+    {
+        "english": "to protect",
+        "german": "sch\u00fctzen"
+    },
+    {
+        "english": "to talk",
+        "german": "sprechen"
+    },
+    {
+        "english": "to deal, to trade, to haggle, to act",
+        "german": "handeln"
+    },
+    {
+        "english": "to call",
+        "german": "rufen"
+    },
+    {
+        "english": "brave",
+        "german": "tapfer"
+    },
+    {
+        "english": "nice, kind",
+        "german": "nett"
+    },
+    {
+        "english": "proud",
+        "german": "stolz"
+    },
+    {
+        "english": "dumb, stupid, dense",
+        "german": "dumm"
+    },
+    {
+        "english": "angry, evil",
+        "german": "b\u00f6se"
+    },
+    {
+        "english": "darling",
+        "german": "der Liebling"
+    },
+    {
+        "english": "to hate",
+        "german": "hassen"
+    },
+    {
+        "english": "anger",
+        "german": "der \u00c4rger"
+    },
+    {
+        "english": "boring",
+        "german": "langweilig"
+    },
+    {
+        "english": "rest, peace",
+        "german": "die Ruhe"
+    },
+    {
+        "english": "luck",
+        "german": "das Gl\u00fcck"
+    },
+    {
+        "english": "fear",
+        "german": "die Angst"
+    },
+    {
+        "english": "impression",
+        "german": "der Eindruck"
+    },
+    {
+        "english": "scary, eerie, weird, incredibly, extremely",
+        "german": "unheimlich"
+    },
+    {
+        "english": "thought",
+        "german": "der Gedanke"
+    },
+    {
+        "english": "seriousness, severity",
+        "german": "der Ernst"
+    },
+    {
+        "english": "fun",
+        "german": "der Spa\u00df"
+    },
+    {
+        "english": "humour",
+        "german": "der Humor"
+    },
+    {
+        "english": "totally; utterly",
+        "german": "total"
+    },
+    {
+        "english": "honest; sincere; square; candid",
+        "german": "ehrlich"
+    },
+    {
+        "english": "fault, liability, debt",
+        "german": "die Schuld"
+    },
+    {
+        "english": "to laugh",
+        "german": "lachen"
+    },
+    {
+        "english": "severe, bad",
+        "german": "schlimm"
+    },
+    {
+        "english": "dream",
+        "german": "der Traum"
+    },
+    {
+        "english": "need, distress, hardship",
+        "german": "die Not"
+    },
+    {
+        "english": "understanding",
+        "german": "das Verst\u00e4ndnis"
+    },
+    {
+        "english": "ratherdear",
+        "german": "lieber"
+    },
+    {
+        "english": "to dream",
+        "german": "tr\u00e4umen"
+    },
+    {
+        "english": "smart, crafty, clever",
+        "german": "schlau"
+    },
+    {
+        "english": "interesting",
+        "german": "interessant"
+    },
+    {
+        "english": "pleasure, desire",
+        "german": "die Lust"
+    },
+    {
+        "english": "love",
+        "german": "die Liebe"
+    },
+    {
+        "english": "wish",
+        "german": "der Wunsch"
+    },
+    {
+        "english": "joy",
+        "german": "die Freude"
+    },
+    {
+        "english": "joke",
+        "german": "der Witz"
+    },
+    {
+        "english": "funny",
+        "german": "witzig"
+    },
+    {
+        "english": "at all",
+        "german": "gar"
+    },
+    {
+        "english": "later",
+        "german": "sp\u00e4ter"
+    },
+    {
+        "english": "late",
+        "german": "sp\u00e4t"
+    },
+    {
+        "english": "to last, to take",
+        "german": "dauern"
+    },
+    {
+        "english": "moment, instant",
+        "german": "der Augenblick"
+    },
+    {
+        "english": "quarter",
+        "german": "das Viertel"
+    },
+    {
+        "english": "half",
+        "german": "halb"
+    },
+    {
+        "english": "currently, just",
+        "german": "gerade"
+    },
+    {
+        "english": "at night",
+        "german": "nachts"
+    },
+    {
+        "english": "early",
+        "german": "fr\u00fch"
+    },
+    {
+        "english": "approximately",
+        "german": "etwa"
+    },
+    {
+        "english": "morning",
+        "german": "der Morgen"
+    },
+    {
+        "english": "watch",
+        "german": "die Uhr"
+    },
+    {
+        "english": "for a long",
+        "german": "lange"
+    },
+    {
+        "english": "tomorrow",
+        "german": "morgen"
+    },
+    {
+        "english": "at that",
+        "german": "damals"
+    },
+    {
+        "english": "yesterday",
+        "german": "gestern"
+    },
+    {
+        "english": "moment in time",
+        "german": "der Zeitpunkt"
+    },
+    {
+        "english": "second",
+        "german": "die Sekunde"
+    },
+    {
+        "english": "the time",
+        "german": "die Uhrzeit"
+    },
+    {
+        "english": "night",
+        "german": "die Nacht"
+    },
+    {
+        "english": "period of",
+        "german": "der Zeitraum"
+    },
+    {
+        "english": "midnight",
+        "german": "Mitternacht"
+    },
+    {
+        "english": "noon",
+        "german": "der Mittag"
+    },
+    {
+        "english": "minute",
+        "german": "die Minute"
+    },
+    {
+        "english": "hour",
+        "german": "die Stunde"
+    },
+    {
+        "english": "almost",
+        "german": "fast"
+    },
+    {
+        "english": "today",
+        "german": "heute"
+    },
+    {
+        "english": "now",
+        "german": "jetzt"
+    },
+    {
+        "english": "moment",
+        "german": "der Moment"
+    },
+    {
+        "english": "duration",
+        "german": "die Dauer"
+    },
+    {
+        "english": "appointment",
+        "german": "der Termin"
+    },
+    {
+        "english": "immediately",
+        "german": "sofort"
+    },
+    {
+        "english": "evening",
+        "german": "der Abend"
+    },
+    {
+        "english": "then",
+        "german": "dann"
+    },
+    {
+        "english": "whether",
+        "german": "ob"
+    },
+    {
+        "english": "seldom, rarely",
+        "german": "selten"
+    },
+    {
+        "english": "no&nbsp;\u2026 at all",
+        "german": "keinerlei"
+    },
+    {
+        "english": "most, mostly, usually",
+        "german": "meist"
+    },
+    {
+        "english": "times; just",
+        "german": "mal"
+    },
+    {
+        "english": "numerous",
+        "german": "zahlreich"
+    },
+    {
+        "english": "frequent",
+        "german": "h\u00e4ufig"
+    },
+    {
+        "english": "the Adj, the Adj",
+        "german": "je Adj desto Adj"
+    },
+    {
+        "english": "a little, a bit",
+        "german": "ein bisschen"
+    },
+    {
+        "english": "few",
+        "german": "wenig"
+    },
+    {
+        "english": "sometimes",
+        "german": "manchmal"
+    },
+    {
+        "english": "more",
+        "german": "mehr"
+    },
+    {
+        "english": "often",
+        "german": "oft"
+    },
+    {
+        "english": "must",
+        "german": "m\u00fcssen"
+    },
+    {
+        "english": "to introduce, to imagine, to suggest, to present",
+        "german": "vorstellen"
+    },
+    {
+        "english": "to confirm, to certify, to corroborate",
+        "german": "best\u00e4tigen"
+    },
+    {
+        "english": "to rent, to lease, to hire, to charter",
+        "german": "mieten"
+    },
+    {
+        "english": "to be supposed to, should",
+        "german": "sollen"
+    },
+    {
+        "english": "to be allowed to, to may",
+        "german": "d\u00fcrfen"
+    },
+    {
+        "english": "to register",
+        "german": "registrieren"
+    },
+    {
+        "english": "to wish",
+        "german": "w\u00fcnschen"
+    },
+    {
+        "english": "to wake; to waken; to awake; rouse",
+        "german": "wecken"
+    },
+    {
+        "english": "to view sth., to consider, to contemplate",
+        "german": "betrachten"
+    },
+    {
+        "english": "to take part; to experience",
+        "german": "mitmachen"
+    },
+    {
+        "english": "to participate, to take part",
+        "german": "teilnehmen"
+    },
+    {
+        "english": "to decide; to determine",
+        "german": "entscheiden"
+    },
+    {
+        "english": "to repeat; to recur, to reiterate",
+        "german": "wiederholen"
+    },
+    {
+        "english": "to state, to testify",
+        "german": "aussagen"
+    },
+    {
+        "english": "to do; to make",
+        "german": "tun"
+    },
+    {
+        "english": "one; people",
+        "german": "man"
+    },
+    {
+        "english": "however",
+        "german": "jedoch"
+    },
+    {
+        "english": "else, besides, otherwise",
+        "german": "sonst"
+    },
+    {
+        "english": "therefore, because of that",
+        "german": "daher"
+    },
+    {
+        "english": "in addition, to it, to that, for this purpose",
+        "german": "dazu"
+    },
+    {
+        "english": "at all, generally",
+        "german": "\u00fcberhaupt"
+    },
+    {
+        "english": "just the same as, equally",
+        "german": "genauso"
+    },
+    {
+        "english": "now, well",
+        "german": "nun"
+    },
+    {
+        "english": "particularly",
+        "german": "besonders"
+    },
+    {
+        "english": "about it, about that, over it, over that",
+        "german": "dar\u00fcber"
+    },
+    {
+        "english": "self, yourself",
+        "german": "selbst"
+    },
+    {
+        "english": "neither",
+        "german": "weder"
+    },
+    {
+        "english": "already",
+        "german": "bereits"
+    },
+    {
+        "english": "at least, no less than, minimum",
+        "german": "mindestens"
+    },
+    {
+        "english": "once again, again, renewed",
+        "german": "erneut"
+    },
+    {
+        "english": "in any case, at least, anyway",
+        "german": "jedenfalls"
+    },
+    {
+        "english": "most, mostly, usually",
+        "german": "meistens"
+    },
+    {
+        "english": "hardly",
+        "german": "kaum"
+    },
+    {
+        "english": "once",
+        "german": "einmal"
+    },
+    {
+        "english": "absolutely, definitely",
+        "german": "durchaus"
+    },
+    {
+        "english": "moreover, besides, in addition",
+        "german": "au\u00dferdem"
+    },
+    {
+        "english": "both&nbsp;\u2026 and; as well as",
+        "german": "sowohl"
+    },
+    {
+        "english": "at first",
+        "german": "zuerst"
+    },
+    {
+        "english": "thereby, with it",
+        "german": "dabei"
+    },
+    {
+        "english": "with it, with that",
+        "german": "damit"
+    },
+    {
+        "english": "lastly",
+        "german": "zuletzt"
+    },
+    {
+        "english": "amber",
+        "german": "der Bernstein"
+    },
+    {
+        "english": "wave",
+        "german": "die Welle"
+    },
+    {
+        "english": "environment",
+        "german": "die Umwelt"
+    },
+    {
+        "english": "river",
+        "german": "der Fluss"
+    },
+    {
+        "english": "to plant",
+        "german": "pflanzen"
+    },
+    {
+        "english": "stream, creek, brook",
+        "german": "der Bach"
+    },
+    {
+        "english": "the Rhine river",
+        "german": "der Rhein"
+    },
+    {
+        "english": "desert",
+        "german": "die W\u00fcste"
+    },
+    {
+        "english": "lake",
+        "german": "der See"
+    },
+    {
+        "english": "climate",
+        "german": "das Klima"
+    },
+    {
+        "english": "universe",
+        "german": "das All"
+    },
+    {
+        "english": "animal world",
+        "german": "die Tierwelt"
+    },
+    {
+        "english": "grass",
+        "german": "das Gras"
+    },
+    {
+        "english": "current",
+        "german": "der Strom"
+    },
+    {
+        "english": "beach",
+        "german": "der Strand"
+    },
+    {
+        "english": "meadow, pasture, grassland",
+        "german": "die Wiese"
+    },
+    {
+        "english": "world",
+        "german": "die Welt"
+    },
+    {
+        "english": "sea",
+        "german": "die See"
+    },
+    {
+        "english": "plant",
+        "german": "die Pflanze"
+    },
+    {
+        "english": "forest",
+        "german": "der Wald"
+    },
+    {
+        "english": "agriculture",
+        "german": "die Landwirtschaft"
+    },
+    {
+        "english": "staff, personnel",
+        "german": "das Personal"
+    },
+    {
+        "english": "expert",
+        "german": "der Experte"
+    },
+    {
+        "english": "manufacturer",
+        "german": "der Hersteller"
+    },
+    {
+        "english": "tailor",
+        "german": "der Schneider"
+    },
+    {
+        "english": "recipient, receiver, acceptor, beneficiary",
+        "german": "der Empf\u00e4nger"
+    },
+    {
+        "english": "participant",
+        "german": "der Teilnehmer"
+    },
+    {
+        "english": "judge",
+        "german": "der Richter"
+    },
+    {
+        "english": "lawyer",
+        "german": "der Rechtsanwalt"
+    },
+    {
+        "english": "handcraft, handicraft",
+        "german": "das Handwerk"
+    },
+    {
+        "english": "speciality",
+        "german": "die Spezialit\u00e4t"
+    },
+    {
+        "english": "workshop",
+        "german": "die Werkstatt"
+    },
+    {
+        "english": "author, drafter, essayist",
+        "german": "der Verfasser"
+    },
+    {
+        "english": "operator",
+        "german": "der Betreiber"
+    },
+    {
+        "english": "developer",
+        "german": "der Entwickler"
+    },
+    {
+        "english": "remaining, left over, extra, spare, residual",
+        "german": "\u00fcbrig"
+    },
+    {
+        "english": "additional, in addition",
+        "german": "zus\u00e4tzlich"
+    },
+    {
+        "english": "left",
+        "german": "linke"
+    },
+    {
+        "english": "further, continuing, in additionwider, broader",
+        "german": "weiter"
+    },
+    {
+        "english": "public, publicly",
+        "german": "\u00f6ffentlich"
+    },
+    {
+        "english": "next, nearest",
+        "german": "n\u00e4chste"
+    },
+    {
+        "english": "fitting, matching, suitable",
+        "german": "passend"
+    },
+    {
+        "english": "coincidental, by chance, accidently, random",
+        "german": "zuf\u00e4llig"
+    },
+    {
+        "english": "youthful",
+        "german": "jugendlich"
+    },
+    {
+        "english": "separate, individual, separately, individually",
+        "german": "einzeln"
+    },
+    {
+        "english": "particular, special, specific",
+        "german": "besondere"
+    },
+    {
+        "english": "special",
+        "german": "speziell"
+    },
+    {
+        "english": "current, topical, latest, newsworthy, up to date, on going, relevant, in fashion",
+        "german": "aktuell"
+    },
+    {
+        "english": "whole, entire, complete",
+        "german": "gesamt"
+    },
+    {
+        "english": "own",
+        "german": "eigen"
+    },
+    {
+        "english": "former",
+        "german": "ehemalig"
+    },
+    {
+        "english": "detailed, explicit",
+        "german": "detailliert"
+    },
+    {
+        "english": "past, bygone, last",
+        "german": "vergangen"
+    },
+    {
+        "english": "technical",
+        "german": "technisch"
+    },
+    {
+        "english": "different (attributes between two or more persons/objects), various, several, assorted",
+        "german": "verschieden"
+    },
+    {
+        "english": "modern",
+        "german": "modern"
+    },
+    {
+        "english": "present day, today's",
+        "german": "heutig"
+    },
+    {
+        "english": "same, equalshortly, at once",
+        "german": "gleich"
+    },
+    {
+        "english": "east",
+        "german": "der Osten"
+    },
+    {
+        "english": "direction, course",
+        "german": "die Richtung"
+    },
+    {
+        "english": "in, to come in",
+        "german": "rein"
+    },
+    {
+        "english": "back and forth",
+        "german": "hin und her"
+    },
+    {
+        "english": "outto come out",
+        "german": "raus"
+    },
+    {
+        "english": "north",
+        "german": "der Norden"
+    },
+    {
+        "english": "(on the) right",
+        "german": "rechts"
+    },
+    {
+        "english": "on the way",
+        "german": "unterwegs"
+    },
+    {
+        "english": "back",
+        "german": "zur\u00fcck"
+    },
+    {
+        "english": "out of",
+        "german": "hinaus"
+    },
+    {
+        "english": "south",
+        "german": "der S\u00fcden"
+    },
+    {
+        "english": "ahead",
+        "german": "voraus"
+    },
+    {
+        "english": "(on the) left",
+        "german": "links"
+    },
+    {
+        "english": "to here",
+        "german": "hierher"
+    },
+    {
+        "english": "where from",
+        "german": "woher"
+    },
+    {
+        "english": "in, to come in",
+        "german": "herein"
+    },
+    {
+        "english": "west",
+        "german": "der Westen"
+    },
+    {
+        "english": "away",
+        "german": "weg"
+    },
+    {
+        "english": "round, around",
+        "german": "herum"
+    },
+    {
+        "english": "out; to come out",
+        "german": "heraus"
+    },
+    {
+        "english": "political",
+        "german": "politisch"
+    },
+    {
+        "english": "social",
+        "german": "sozial"
+    },
+    {
+        "english": "varied, different",
+        "german": "unterschiedlich"
+    },
+    {
+        "english": "external",
+        "german": "extern"
+    },
+    {
+        "english": "convenient, favorable, low priced, advantageous, convenient, favourable, good value",
+        "german": "g\u00fcnstig"
+    },
+    {
+        "english": "at least",
+        "german": "zumindest"
+    },
+    {
+        "english": "at it, in it, on it, etc.",
+        "german": "daran"
+    },
+    {
+        "english": "therefore, because of that",
+        "german": "darum"
+    },
+    {
+        "english": "on it, for it, to it, towards it, etc.",
+        "german": "darauf"
+    },
+    {
+        "english": "about it, from it, from there, of these, etc.",
+        "german": "davon"
+    },
+    {
+        "english": "therefore, because of that, hence, that's why, as a result",
+        "german": "deshalb"
+    },
+    {
+        "english": "(adv) well(part.) probably",
+        "german": "wohl"
+    },
+    {
+        "english": "by the way",
+        "german": "\u00fcbrigens"
+    },
+    {
+        "english": "as far as",
+        "german": "soweit"
+    },
+    {
+        "english": "however, nevertheless, despite that",
+        "german": "trotzdem"
+    },
+    {
+        "english": "cordial, hearty",
+        "german": "herzlich"
+    },
+    {
+        "english": "different from before, differently",
+        "german": "anders"
+    },
+    {
+        "english": "indoors, inside, in there, in it",
+        "german": "drin"
+    },
+    {
+        "english": "until now, up to this point",
+        "german": "bisher"
+    },
+    {
+        "english": "otherwise, apart from that",
+        "german": "ansonsten"
+    },
+    {
+        "english": "at the same time, together",
+        "german": "zugleich"
+    },
+    {
+        "english": "so, well, thus",
+        "german": "also"
+    },
+    {
+        "english": "natural, naturally",
+        "german": "nat\u00fcrlich"
+    },
+    {
+        "english": "certainly, however",
+        "german": "allerdings"
+    },
+    {
+        "english": "even",
+        "german": "sogar"
+    },
+    {
+        "english": "at least",
+        "german": "wenigstens"
+    },
+    {
+        "english": "actually",
+        "german": "eigentlich"
+    },
+    {
+        "english": "in this way, thereby",
+        "german": "dadurch"
+    },
+    {
+        "english": "for it, for this",
+        "german": "daf\u00fcr"
+    },
+    {
+        "english": "would be",
+        "german": "w\u00e4ren"
+    },
+    {
+        "english": "to burn",
+        "german": "brennen"
+    },
+    {
+        "english": "beforehand, previously",
+        "german": "zuvor"
+    },
+    {
+        "english": "beforehand, previously",
+        "german": "vorher"
+    },
+    {
+        "english": "before",
+        "german": "bevor"
+    },
+    {
+        "english": "degree",
+        "german": "der Grad"
+    },
+    {
+        "english": "lightning",
+        "german": "der Blitz"
+    },
+    {
+        "english": "cloud",
+        "german": "die Wolke"
+    },
+    {
+        "english": "weather",
+        "german": "das Wetter"
+    },
+    {
+        "english": "snow",
+        "german": "der Schnee"
+    },
+    {
+        "english": "rain",
+        "german": "der Regen"
+    },
+    {
+        "english": "thunder",
+        "german": "der Donner"
+    },
+    {
+        "english": "umbrella",
+        "german": "der Regenschirm"
+    },
+    {
+        "english": "thunderstorm",
+        "german": "das Gewitter"
+    },
+    {
+        "english": "rainbow",
+        "german": "der Regenbogen"
+    },
+    {
+        "english": "dry",
+        "german": "trocken"
+    },
+    {
+        "english": "wet",
+        "german": "nass"
+    },
+    {
+        "english": "to rain",
+        "german": "regnen"
+    },
+    {
+        "english": "storm, gale",
+        "german": "der Sturm"
+    },
+    {
+        "english": "to snow",
+        "german": "schneien"
+    },
+    {
+        "english": "piece",
+        "german": "das St\u00fcck"
+    },
+    {
+        "english": "position, place",
+        "german": "die Stelle"
+    },
+    {
+        "english": "equipment, accessory",
+        "german": "das Zubeh\u00f6r"
+    },
+    {
+        "english": "product",
+        "german": "das Produkt"
+    },
+    {
+        "english": "scissors",
+        "german": "die Schere"
+    },
+    {
+        "english": "thing, matter, affair",
+        "german": "die Sache"
+    },
+    {
+        "english": "ground, floor",
+        "german": "der Boden"
+    },
+    {
+        "english": "gift",
+        "german": "das Geschenk"
+    },
+    {
+        "english": "catalogue",
+        "german": "der Katalog"
+    },
+    {
+        "english": "pile, packet",
+        "german": "das Paket"
+    },
+    {
+        "english": "plan, map",
+        "german": "der Plan"
+    },
+    {
+        "english": "interview",
+        "german": "das Interview"
+    },
+    {
+        "english": "computer",
+        "german": "der Computer"
+    },
+    {
+        "english": "cable",
+        "german": "das Kabel"
+    },
+    {
+        "english": "article",
+        "german": "der Artikel"
+    },
+    {
+        "english": "cell phone",
+        "german": "das Handy"
+    },
+    {
+        "english": "press",
+        "german": "die Presse"
+    },
+    {
+        "english": "medium",
+        "german": "das Medium"
+    },
+    {
+        "english": "to start",
+        "german": "starten"
+    },
+    {
+        "english": "hard drive",
+        "german": "die Festplatte"
+    },
+    {
+        "english": "discussion",
+        "german": "die Diskussion"
+    },
+    {
+        "english": "dialogue",
+        "german": "der Dialog"
+    },
+    {
+        "english": "news",
+        "german": "die Nachricht"
+    },
+    {
+        "english": "keyboard",
+        "german": "die Tastatur"
+    },
+    {
+        "english": "area code",
+        "german": "die Vorwahl"
+    },
+    {
+        "english": "phone",
+        "german": "das Telefon"
+    },
+    {
+        "english": "magazine",
+        "german": "die Zeitschrift"
+    },
+    {
+        "english": "information",
+        "german": "die Information"
+    },
+    {
+        "english": "media",
+        "german": "die Medien"
+    },
+    {
+        "english": "monitor",
+        "german": "der Monitor"
+    },
+    {
+        "english": "conversation, talk",
+        "german": "das Gespr\u00e4ch"
+    },
+    {
+        "english": "television",
+        "german": "das Fernsehen"
+    },
+    {
+        "english": "television set",
+        "german": "der Fernseher"
+    },
+    {
+        "english": "communication",
+        "german": "die Kommunikation"
+    },
+    {
+        "english": "TV program, transmission, broadcast, consignment",
+        "german": "die Sendung"
+    },
+    {
+        "english": "speech, talk, conversation",
+        "german": "die Rede"
+    },
+    {
+        "english": "to watch television",
+        "german": "fernsehen"
+    },
+    {
+        "english": "to save",
+        "german": "sparen"
+    },
+    {
+        "english": "to offer",
+        "german": "anbieten"
+    },
+    {
+        "english": "to quote, to cite",
+        "german": "zitieren"
+    },
+    {
+        "english": "to give up, to give in",
+        "german": "aufgeben"
+    },
+    {
+        "english": "to be carried out, to take place, to occur",
+        "german": "erfolgen"
+    },
+    {
+        "english": "to leave, to abandon, to desert",
+        "german": "verlassen"
+    },
+    {
+        "english": "to share, to divide up",
+        "german": "teilen"
+    },
+    {
+        "english": "to appear",
+        "german": "erscheinen"
+    },
+    {
+        "english": "to turn",
+        "german": "wenden"
+    },
+    {
+        "english": "to answer; to respond",
+        "german": "beantworten"
+    },
+    {
+        "english": "to break off",
+        "german": "abbrechen"
+    },
+    {
+        "english": "to inquire again, to ask for more detail",
+        "german": "nachfragen"
+    },
+    {
+        "english": "to install",
+        "german": "installieren"
+    },
+    {
+        "english": "to have an effect, to operate, to appear",
+        "german": "wirken"
+    },
+    {
+        "english": "to suggest",
+        "german": "vorschlagen"
+    },
+    {
+        "english": "to keep, to retain, to maintain",
+        "german": "behalten"
+    },
+    {
+        "english": "to need sth.; to want for sth.",
+        "german": "ben\u00f6tigen"
+    },
+    {
+        "english": "to expect",
+        "german": "erwarten"
+    },
+    {
+        "english": "to exchange, to change",
+        "german": "wechseln"
+    },
+    {
+        "english": "to forgive",
+        "german": "vergeben"
+    },
+    {
+        "english": "to acquire, to purchase, to earn, to attain",
+        "german": "erwerben"
+    },
+    {
+        "english": "to secure, to protect",
+        "german": "sichern"
+    },
+    {
+        "english": "to earn, to deserve",
+        "german": "verdienen"
+    },
+    {
+        "english": "to support",
+        "german": "unterst\u00fctzen"
+    },
+    {
+        "english": "to download",
+        "german": "herunterladen"
+    },
+    {
+        "english": "to use, to employ, to apply",
+        "german": "verwenden"
+    },
+    {
+        "english": "to adjust; to set; to tune; to employ; to stop",
+        "german": "einstellen"
+    },
+    {
+        "english": "down, downwards",
+        "german": "herunter"
+    },
+    {
+        "english": "password",
+        "german": "das Passwort"
+    },
+    {
+        "english": "internet site",
+        "german": "die Internetseite"
+    },
+    {
+        "english": "search",
+        "german": "die Suche"
+    },
+    {
+        "english": "side, page",
+        "german": "die Seite"
+    },
+    {
+        "english": "commentary, editorial, comment",
+        "german": "der Kommentar"
+    },
+    {
+        "english": "profile",
+        "german": "das Profil"
+    },
+    {
+        "english": "web, net",
+        "german": "das Netz"
+    },
+    {
+        "english": "to update",
+        "german": "aktualisieren"
+    },
+    {
+        "english": "to delete",
+        "german": "l\u00f6schen"
+    },
+    {
+        "english": "key, push button",
+        "german": "die Taste"
+    },
+    {
+        "english": "search engine",
+        "german": "die Suchmaschine"
+    },
+    {
+        "english": "picture",
+        "german": "das Bild"
+    },
+    {
+        "english": "to upload",
+        "german": "hochladen"
+    },
+    {
+        "english": "program",
+        "german": "das Programm"
+    },
+    {
+        "english": "to print",
+        "german": "drucken"
+    },
+    {
+        "english": "WiFi",
+        "german": "das Wlan"
+    },
+    {
+        "english": "internet",
+        "german": "das Internet"
+    },
+    {
+        "english": "attachment",
+        "german": "der Anhang"
+    },
+    {
+        "english": "network",
+        "german": "das Netzwerk"
+    },
+    {
+        "english": "blog",
+        "german": "der Blog"
+    },
+    {
+        "english": "electronic mail; email",
+        "german": "das E-Mail"
+    },
+    {
+        "english": "to send",
+        "german": "schicken"
+    },
+    {
+        "english": "photo",
+        "german": "das Foto"
+    },
+    {
+        "english": "would have",
+        "german": "h\u00e4tten"
+    },
+    {
+        "english": "to call, to name",
+        "german": "nennen"
+    },
+    {
+        "english": "after",
+        "german": "nachdem"
+    },
+    {
+        "english": "university",
+        "german": "die Uni"
+    },
+    {
+        "english": "test",
+        "german": "der Test"
+    },
+    {
+        "english": "training",
+        "german": "das Training"
+    },
+    {
+        "english": "pen",
+        "german": "der Stift"
+    },
+    {
+        "english": "(academical)study, degree course, scholastics",
+        "german": "das Studium"
+    },
+    {
+        "english": "seminar",
+        "german": "das Seminar"
+    },
+    {
+        "english": "grade, note",
+        "german": "die Note"
+    },
+    {
+        "english": "training, apprenticeship, education",
+        "german": "die Ausbildung"
+    },
+    {
+        "english": "apprenticeship, teaching",
+        "german": "die Lehre"
+    },
+    {
+        "english": "reader",
+        "german": "der Leser"
+    },
+    {
+        "english": "class, grade",
+        "german": "die Klasse"
+    },
+    {
+        "english": "course, price, exchange rate",
+        "german": "der Kurs"
+    },
+    {
+        "english": "high school, grammar school",
+        "german": "das Gymnasium"
+    },
+    {
+        "english": "to study",
+        "german": "studieren"
+    },
+    {
+        "english": "academy",
+        "german": "die Akademie"
+    },
+    {
+        "english": "exam, test",
+        "german": "die Pr\u00fcfung"
+    },
+    {
+        "english": "education",
+        "german": "die Bildung"
+    },
+    {
+        "english": "field, department, faculty",
+        "german": "der Fachbereich"
+    },
+    {
+        "english": "upbringing",
+        "german": "die Erziehung"
+    },
+    {
+        "english": "primary/elementary school",
+        "german": "die Grundschule"
+    },
+    {
+        "english": "research",
+        "german": "die Forschung"
+    },
+    {
+        "english": "institute",
+        "german": "das Institut"
+    },
+    {
+        "english": "college, university",
+        "german": "die Hochschule"
+    },
+    {
+        "english": "university",
+        "german": "die Universit\u00e4t"
+    },
+    {
+        "english": "kindergarten",
+        "german": "der Kindergarten"
+    },
+    {
+        "english": "exercise, practice",
+        "german": "die \u00dcbung"
+    },
+    {
+        "english": "to reflect, to consider, to debate, to think",
+        "german": "\u00fcberlegen"
+    },
+    {
+        "english": "continuing education",
+        "german": "die Weiterbildung"
+    },
+    {
+        "english": "lesson(s), education",
+        "german": "der Unterricht"
+    },
+    {
+        "english": "no idea",
+        "german": "keine Ahnung"
+    },
+    {
+        "english": "well, oh well",
+        "german": "naja"
+    },
+    {
+        "english": "pardon me, excuse me, forgive me",
+        "german": "Verzeihung"
+    },
+    {
+        "english": "statistics",
+        "german": "die Statistik"
+    },
+    {
+        "english": "physics",
+        "german": "die Physik"
+    },
+    {
+        "english": "motor, engine",
+        "german": "der Motor"
+    },
+    {
+        "english": "proof, certificate",
+        "german": "der Nachweis"
+    },
+    {
+        "english": "study (examination of a topic), investigation",
+        "german": "die Studie"
+    },
+    {
+        "english": "technique",
+        "german": "die Technik"
+    },
+    {
+        "english": "internship",
+        "german": "das Praktikum"
+    },
+    {
+        "english": "atmosphere; ambience",
+        "german": "die Atmosph\u00e4re"
+    },
+    {
+        "english": "temperature",
+        "german": "die Temperatur"
+    },
+    {
+        "english": "theory",
+        "german": "die Theorie"
+    },
+    {
+        "english": "textbook",
+        "german": "das Lehrbuch"
+    },
+    {
+        "english": "chemistry",
+        "german": "die Chemie"
+    },
+    {
+        "english": "scientist",
+        "german": "der Wissenschaftler,&nbsp;die Wissenschaftlerin"
+    },
+    {
+        "english": "definition",
+        "german": "die Definition"
+    },
+    {
+        "english": "radiation",
+        "german": "die Strahlung"
+    },
+    {
+        "english": "attention, respect, warning",
+        "german": "die Achtung"
+    },
+    {
+        "english": "analysis",
+        "german": "die Analyse"
+    },
+    {
+        "english": "biology",
+        "german": "die Biologie"
+    },
+    {
+        "english": "element",
+        "german": "das Element"
+    },
+    {
+        "english": "to test, to check",
+        "german": "testen"
+    },
+    {
+        "english": "plastic",
+        "german": "der Kunststoff"
+    },
+    {
+        "english": "knowledge",
+        "german": "die Kenntnis"
+    },
+    {
+        "english": "machine, engine",
+        "german": "die Maschine"
+    },
+    {
+        "english": "invention",
+        "german": "die Erfindung"
+    },
+    {
+        "english": "energy",
+        "german": "die Energie"
+    },
+    {
+        "english": "to measure",
+        "german": "messen"
+    },
+    {
+        "english": "method",
+        "german": "die Methode"
+    },
+    {
+        "english": "knowledge",
+        "german": "das Wissen"
+    },
+    {
+        "english": "science",
+        "german": "die Wissenschaft"
+    },
+    {
+        "english": "technology",
+        "german": "die Technologie"
+    },
+    {
+        "english": "gas",
+        "german": "das Gas"
+    },
+    {
+        "english": "chemical",
+        "german": "chemisch"
+    },
+    {
+        "english": "to remember; to recall",
+        "german": "sich erinnern"
+    },
+    {
+        "english": "to surrender, to submit, to take to something",
+        "german": "sich ergeben"
+    },
+    {
+        "english": "oneself, myself, yourself etc.",
+        "german": "sich"
+    },
+    {
+        "english": "to be interested",
+        "german": "sich interessieren"
+    },
+    {
+        "english": "to report sth., to announce sth.",
+        "german": "melden"
+    },
+    {
+        "english": "to be worthwhile; to pay off",
+        "german": "sich lohnen"
+    },
+    {
+        "english": "(+um) to worry about;(+f\u00fcr) to take care of",
+        "german": "sorgen"
+    },
+    {
+        "english": "to place, to sit",
+        "german": "setzen"
+    },
+    {
+        "english": "to get lost",
+        "german": "sich verlaufen"
+    },
+    {
+        "english": "to be happy, to be glad",
+        "german": "sich freuen"
+    },
+    {
+        "english": "to feel",
+        "german": "sich f\u00fchlen"
+    },
+    {
+        "english": "to imagine something",
+        "german": "sich einbilden"
+    },
+    {
+        "english": "to get oneself something",
+        "german": "sich holen"
+    },
+    {
+        "english": "to register, to enroll",
+        "german": "eintragen"
+    },
+    {
+        "english": "to be located, to be",
+        "german": "sich befinden"
+    },
+    {
+        "english": "to sign up, to log on, to register",
+        "german": "anmelden"
+    },
+    {
+        "english": "to look at, to view",
+        "german": "anschauen"
+    },
+    {
+        "english": "to publish",
+        "german": "ver\u00f6ffentlichen"
+    },
+    {
+        "english": "salutation, form of address",
+        "german": "die Anrede"
+    },
+    {
+        "english": "stamp",
+        "german": "die Briefmarke"
+    },
+    {
+        "english": "letter",
+        "german": "der Brief"
+    },
+    {
+        "english": "confirmation",
+        "german": "die Best\u00e4tigung"
+    },
+    {
+        "english": "reason, justification",
+        "german": "die Begr\u00fcndung"
+    },
+    {
+        "english": "loudspeaker",
+        "german": "der Lautsprecher"
+    },
+    {
+        "english": "contact",
+        "german": "der Kontakt"
+    },
+    {
+        "english": "report",
+        "german": "die Meldung"
+    },
+    {
+        "english": "postal code",
+        "german": "die Postleitzahl"
+    },
+    {
+        "english": "postcard",
+        "german": "die Postkarte"
+    },
+    {
+        "english": "transmitter; broadcasting station",
+        "german": "der Sender"
+    },
+    {
+        "english": "radio",
+        "german": "das Radio"
+    },
+    {
+        "english": "paperback",
+        "german": "das Taschenbuch"
+    },
+    {
+        "english": "topic, theme",
+        "german": "das Thema"
+    },
+    {
+        "english": "invitation",
+        "german": "die Einladung"
+    },
+    {
+        "english": "phone book",
+        "german": "das Telefonbuch"
+    },
+    {
+        "english": "mailbox, letter box, postbox",
+        "german": "der Briefkasten"
+    },
+    {
+        "english": "publishing house, publisher",
+        "german": "der Verlag"
+    },
+    {
+        "english": "post",
+        "german": "die Post"
+    },
+    {
+        "english": "address",
+        "german": "die Adresse"
+    },
+    {
+        "english": "greeting",
+        "german": "der Gru\u00df"
+    },
+    {
+        "english": "communication",
+        "german": "die Mitteilung"
+    },
+    {
+        "english": "announcement, registration",
+        "german": "die Anmeldung"
+    },
+    {
+        "english": "note, memo, brief report, notice",
+        "german": "die Notiz"
+    },
+    {
+        "english": "to send",
+        "german": "senden"
+    },
+    {
+        "english": "colleague",
+        "german": "der Kollege"
+    },
+    {
+        "english": "stock, share",
+        "german": "die Aktie"
+    },
+    {
+        "english": "contribution, fee",
+        "german": "der Beitrag"
+    },
+    {
+        "english": "advice, consultation",
+        "german": "die Beratung"
+    },
+    {
+        "english": "bid, offer, commandment",
+        "german": "das Gebot"
+    },
+    {
+        "english": "gain, profit",
+        "german": "der Gewinn"
+    },
+    {
+        "english": "trade",
+        "german": "der Handel"
+    },
+    {
+        "english": "owner",
+        "german": "der Inhaber"
+    },
+    {
+        "english": "competition",
+        "german": "der Wettbewerb"
+    },
+    {
+        "english": "career",
+        "german": "die Karriere"
+    },
+    {
+        "english": "awesome, magnificent, grand, great",
+        "german": "gro\u00dfartig"
+    },
+    {
+        "english": "consumer",
+        "german": "der Verbraucher"
+    },
+    {
+        "english": "(men's) suit",
+        "german": "der Anzug"
+    },
+    {
+        "english": "work permit",
+        "german": "die Arbeitserlaubnis"
+    },
+    {
+        "english": "bureau, office",
+        "german": "das B\u00fcro"
+    },
+    {
+        "english": "value",
+        "german": "der Wert"
+    },
+    {
+        "english": "company",
+        "german": "das Unternehmen"
+    },
+    {
+        "english": "buyer; customer, shopper, purchaser",
+        "german": "der K\u00e4ufer"
+    },
+    {
+        "english": "classified advertisement",
+        "german": "die Kleinanzeige"
+    },
+    {
+        "english": "management",
+        "german": "das Management"
+    },
+    {
+        "english": "organisation",
+        "german": "die Organisation"
+    },
+    {
+        "english": "project",
+        "german": "das Projekt"
+    },
+    {
+        "english": "application, job application",
+        "german": "die Bewerbung"
+    },
+    {
+        "english": "order; reservation",
+        "german": "die Bestellung"
+    },
+    {
+        "english": "rent",
+        "german": "die Miete"
+    },
+    {
+        "english": "job",
+        "german": "der Job"
+    },
+    {
+        "english": "document",
+        "german": "das Dokument"
+    },
+    {
+        "english": "factory",
+        "german": "die Fabrik"
+    },
+    {
+        "english": "purchase",
+        "german": "der Kauf"
+    },
+    {
+        "english": "text",
+        "german": "der Text"
+    },
+    {
+        "english": "French language",
+        "german": "Franz\u00f6sisch"
+    },
+    {
+        "english": "conversation, entertainment",
+        "german": "die Unterhaltung"
+    },
+    {
+        "english": "handwriting, writing, script",
+        "german": "die Schrift"
+    },
+    {
+        "english": "word",
+        "german": "das Wort"
+    },
+    {
+        "english": "sentence",
+        "german": "der Satz"
+    },
+    {
+        "english": "index, list, table",
+        "german": "das Verzeichnis"
+    },
+    {
+        "english": "language",
+        "german": "die Sprache"
+    },
+    {
+        "english": "dictionary",
+        "german": "das W\u00f6rterbuch"
+    },
+    {
+        "english": "idea",
+        "german": "die Idee"
+    },
+    {
+        "english": "chapter",
+        "german": "das Kapitel"
+    },
+    {
+        "english": "agreement, consent",
+        "german": "die Zustimmung"
+    },
+    {
+        "english": "opinion, view",
+        "german": "die Meinung"
+    },
+    {
+        "english": "sign",
+        "german": "das Zeichen"
+    },
+    {
+        "english": "to tell a story, to narrate",
+        "german": "erz\u00e4hlen"
+    },
+    {
+        "english": "title",
+        "german": "der Titel"
+    },
+    {
+        "english": "translation",
+        "german": "die \u00dcbersetzung"
+    },
+    {
+        "english": "summary, abstract",
+        "german": "die Zusammenfassung"
+    },
+    {
+        "english": "concept, plan",
+        "german": "das Konzept"
+    },
+    {
+        "english": "English language",
+        "german": "Englisch"
+    },
+    {
+        "english": "German language",
+        "german": "Deutsch"
+    },
+    {
+        "english": "explanation",
+        "german": "die Erkl\u00e4rung"
+    },
+    {
+        "english": "description",
+        "german": "die Beschreibung"
+    },
+    {
+        "english": "report",
+        "german": "der Bericht"
+    },
+    {
+        "english": "term, definition, concept, idea",
+        "german": "der Begriff"
+    },
+    {
+        "english": "meaning",
+        "german": "die Bedeutung"
+    },
+    {
+        "english": "handbook, manual",
+        "german": "das Handbuch"
+    },
+    {
+        "english": "story, history",
+        "german": "die Geschichte"
+    },
+    {
+        "english": "closeness, vicinity",
+        "german": "die N\u00e4he"
+    },
+    {
+        "english": "use, advantage, benefit",
+        "german": "der Nutzen"
+    },
+    {
+        "english": "location, situation, position",
+        "german": "die Lage"
+    },
+    {
+        "english": "recommendation",
+        "german": "die Empfehlung"
+    },
+    {
+        "english": "way",
+        "german": "die Weise"
+    },
+    {
+        "english": "use",
+        "german": "der Gebrauch"
+    },
+    {
+        "english": "pressure, print",
+        "german": "der Druck"
+    },
+    {
+        "english": "change",
+        "german": "die \u00c4nderung"
+    },
+    {
+        "english": "selection, choice",
+        "german": "die Auswahl"
+    },
+    {
+        "english": "measurement, degree",
+        "german": "das Ma\u00df"
+    },
+    {
+        "english": "thing",
+        "german": "das Ding"
+    },
+    {
+        "english": "engagement, involvement",
+        "german": "das Engagement"
+    },
+    {
+        "english": "valuable",
+        "german": "wertvoll"
+    },
+    {
+        "english": "opportunity, occasion",
+        "german": "die Gelegenheit"
+    },
+    {
+        "english": "form, shape, mould",
+        "german": "die Form"
+    },
+    {
+        "english": "competence",
+        "german": "die Kompetenz"
+    },
+    {
+        "english": "help",
+        "german": "die Hilfe"
+    },
+    {
+        "english": "security, safety, certainty",
+        "german": "die Sicherheit"
+    },
+    {
+        "english": "development",
+        "german": "die Entwicklung"
+    },
+    {
+        "english": "attempt, try",
+        "german": "der Versuch"
+    },
+    {
+        "english": "result",
+        "german": "das Ergebnis"
+    },
+    {
+        "english": "cooperation",
+        "german": "die Zusammenarbeit"
+    },
+    {
+        "english": "quality",
+        "german": "die Qualit\u00e4t"
+    },
+    {
+        "english": "tip, clue",
+        "german": "der Hinweis"
+    },
+    {
+        "english": "objective, ambition, goal, destination",
+        "german": "das Ziel"
+    },
+    {
+        "english": "problem",
+        "german": "das Problem"
+    },
+    {
+        "english": "solution",
+        "german": "die L\u00f6sung"
+    },
+    {
+        "english": "behaviour",
+        "german": "das Verhalten"
+    },
+    {
+        "english": "monkey, ape",
+        "german": "der Affe"
+    },
+    {
+        "english": "to bite",
+        "german": "bei\u00dfen"
+    },
+    {
+        "english": "to sting",
+        "german": "stechen"
+    },
+    {
+        "english": "dolphin",
+        "german": "der Delfin"
+    },
+    {
+        "english": "zoo",
+        "german": "der Zoo"
+    },
+    {
+        "english": "elephant",
+        "german": "der Elefant"
+    },
+    {
+        "english": "hen, chicken",
+        "german": "das Huhn"
+    },
+    {
+        "english": "sheep",
+        "german": "das Schaf"
+    },
+    {
+        "english": "turtle",
+        "german": "die Schildkr\u00f6te"
+    },
+    {
+        "english": "polar bear",
+        "german": "der Eisb\u00e4r"
+    },
+    {
+        "english": "owl",
+        "german": "die Eule"
+    },
+    {
+        "english": "horn",
+        "german": "das Horn"
+    },
+    {
+        "english": "camel",
+        "german": "das Kamel"
+    },
+    {
+        "english": "lion",
+        "german": "der L\u00f6we"
+    },
+    {
+        "english": "penguin",
+        "german": "der Pinguin"
+    },
+    {
+        "english": "ride",
+        "german": "reiten"
+    },
+    {
+        "english": "mammal",
+        "german": "das S\u00e4ugetier"
+    },
+    {
+        "english": "crazy, mentally ill",
+        "german": "verr\u00fcckt"
+    },
+    {
+        "english": "tiger",
+        "german": "der Tiger"
+    },
+    {
+        "english": "wasp",
+        "german": "die Wespe"
+    },
+    {
+        "english": "whale",
+        "german": "der Wal"
+    },
+    {
+        "english": "butterfly",
+        "german": "der Schmetterling"
+    },
+    {
+        "english": "snake",
+        "german": "die Schlange"
+    },
+    {
+        "english": "stripe",
+        "german": "der Streifen"
+    },
+    {
+        "english": "squirrel",
+        "german": "das Eichh\u00f6rnchen"
+    },
+    {
+        "english": "zebra",
+        "german": "das Zebra"
+    },
+    {
+        "english": "wolf",
+        "german": "der Wolf"
+    },
+    {
+        "english": "harmless",
+        "german": "harmlos"
+    },
+    {
+        "english": "goose",
+        "german": "die Gans"
+    },
+    {
+        "english": "fox",
+        "german": "der Fuchs"
+    },
+    {
+        "english": "to catch, to apprehend",
+        "german": "fangen"
+    },
+    {
+        "english": "hamster",
+        "german": "der Hamster"
+    },
+    {
+        "english": "shark",
+        "german": "der Hai"
+    },
+    {
+        "english": "giraffe",
+        "german": "die Giraffe"
+    },
+    {
+        "english": "dangerous",
+        "german": "gef\u00e4hrlich"
+    },
+    {
+        "english": "to develop",
+        "german": "entwickeln"
+    },
+    {
+        "english": "to move",
+        "german": "bewegen"
+    },
+    {
+        "english": "to increase, to rise",
+        "german": "erh\u00f6hen"
+    },
+    {
+        "english": "to compare",
+        "german": "vergleichen"
+    },
+    {
+        "english": "to ask, to request",
+        "german": "bitten"
+    },
+    {
+        "english": "to mark",
+        "german": "markieren"
+    },
+    {
+        "english": "to check, to inspect",
+        "german": "\u00fcberpr\u00fcfen"
+    },
+    {
+        "english": "to judge, to assess, to evaluate",
+        "german": "bewerten"
+    },
+    {
+        "english": "to pay attention, to respect",
+        "german": "achten"
+    },
+    {
+        "english": "to jump",
+        "german": "springen"
+    },
+    {
+        "english": "to experience",
+        "german": "erleben"
+    },
+    {
+        "english": "to prevent",
+        "german": "verhindern"
+    },
+    {
+        "english": "to change",
+        "german": "ver\u00e4ndern"
+    },
+    {
+        "english": "to avoid",
+        "german": "vermeiden"
+    },
+    {
+        "english": "to support, to promote, to mine",
+        "german": "f\u00f6rdern"
+    },
+    {
+        "english": "to serve",
+        "german": "dienen"
+    },
+    {
+        "english": "to calculate",
+        "german": "berechnen"
+    },
+    {
+        "english": "to enable, to make sth possible",
+        "german": "erm\u00f6glichen"
+    },
+    {
+        "english": "to kick, to step",
+        "german": "treten"
+    },
+    {
+        "english": "to present",
+        "german": "pr\u00e4sentieren"
+    },
+    {
+        "english": "to determine; to examine; to investigate",
+        "german": "ermitteln"
+    },
+    {
+        "english": "to contact",
+        "german": "kontaktieren"
+    },
+    {
+        "english": "to base",
+        "german": "basieren"
+    },
+    {
+        "english": "to catch, to achieve, to reach",
+        "german": "erreichen"
+    },
+    {
+        "english": "to report",
+        "german": "berichten"
+    },
+    {
+        "english": "to receive",
+        "german": "erhalten"
+    },
+    {
+        "english": "to concern",
+        "german": "betreffen"
+    },
+    {
+        "english": "to be right, to be true,to vote",
+        "german": "stimmen"
+    },
+    {
+        "english": "to define",
+        "german": "definieren"
+    },
+    {
+        "english": "to use",
+        "german": "nutzen"
+    },
+    {
+        "english": "thin",
+        "german": "d\u00fcnn"
+    },
+    {
+        "english": "elbow",
+        "german": "der Ellbogen"
+    },
+    {
+        "english": "intestine",
+        "german": "der Darm"
+    },
+    {
+        "english": "thick, fat",
+        "german": "dick"
+    },
+    {
+        "english": "wrist",
+        "german": "das Handgelenk"
+    },
+    {
+        "english": "hip",
+        "german": "die H\u00fcfte"
+    },
+    {
+        "english": "heel",
+        "german": "die Ferse"
+    },
+    {
+        "english": "brain",
+        "german": "das Gehirn"
+    },
+    {
+        "english": "chin",
+        "german": "das Kinn"
+    },
+    {
+        "english": "knee",
+        "german": "das Knie"
+    },
+    {
+        "english": "tongue",
+        "german": "die Zunge"
+    },
+    {
+        "english": "ankle",
+        "german": "der Kn\u00f6chel"
+    },
+    {
+        "english": "muscle",
+        "german": "der Muskel"
+    },
+    {
+        "english": "lung",
+        "german": "die Lunge"
+    },
+    {
+        "english": "(human/animal) organ",
+        "german": "das Organ"
+    },
+    {
+        "english": "thigh",
+        "german": "der Oberschenkel"
+    },
+    {
+        "english": "bone",
+        "german": "der Knochen"
+    },
+    {
+        "english": "lip",
+        "german": "die Lippe"
+    },
+    {
+        "english": "chest, thorax, ribcage",
+        "german": "der Brustkorb"
+    },
+    {
+        "english": "stomach, belly",
+        "german": "der Bauch"
+    },
+    {
+        "english": "thumb",
+        "german": "der Daumen"
+    },
+    {
+        "english": "liver",
+        "german": "die Leber"
+    },
+    {
+        "english": "toe",
+        "german": "der Zeh"
+    },
+    {
+        "english": "forehead",
+        "german": "die Stirn"
+    },
+    {
+        "english": "to hand in, to pass",
+        "german": "abgeben"
+    },
+    {
+        "english": "to pay",
+        "german": "zahlen"
+    },
+    {
+        "english": "to take into account, to regard, to observe",
+        "german": "beachten"
+    },
+    {
+        "english": "to find out, to experience, to hear about",
+        "german": "erfahren"
+    },
+    {
+        "english": "to search through",
+        "german": "durchsuchen"
+    },
+    {
+        "english": "to furnish, to establish",
+        "german": "einrichten"
+    },
+    {
+        "english": "to inquire",
+        "german": "anfragen"
+    },
+    {
+        "english": "to hike; to ramble; to wander",
+        "german": "wandern"
+    },
+    {
+        "english": "to enlarge, to extend",
+        "german": "vergr\u00f6\u00dfern"
+    },
+    {
+        "english": "to discuss",
+        "german": "diskutieren"
+    },
+    {
+        "english": "fate, destiny",
+        "german": "das Schicksal"
+    },
+    {
+        "english": "to meditate",
+        "german": "meditieren"
+    },
+    {
+        "english": "spirituality",
+        "german": "die Spiritualit\u00e4t"
+    },
+    {
+        "english": "equilibrium, balance",
+        "german": "das Gleichgewicht"
+    },
+    {
+        "english": "ghost, mind",
+        "german": "der Geist"
+    },
+    {
+        "english": "truth",
+        "german": "die Wahrheit"
+    },
+    {
+        "english": "lucky, happy, fortunate",
+        "german": "gl\u00fccklich"
+    },
+    {
+        "english": "wonderful; miraculous; brilliant",
+        "german": "wunderbar"
+    },
+    {
+        "english": "gorgeous, extremely beautiful, wonderful",
+        "german": "wundersch\u00f6n"
+    },
+    {
+        "english": "feeling",
+        "german": "das Gef\u00fchl"
+    },
+    {
+        "english": "life",
+        "german": "das Leben"
+    },
+    {
+        "english": "miracle, wonder",
+        "german": "das Wunder"
+    },
+    {
+        "english": "hope",
+        "german": "die Hoffnung"
+    },
+    {
+        "english": "soul",
+        "german": "die Seele"
+    },
+    {
+        "english": "sense",
+        "german": "der Sinn"
+    },
+    {
+        "english": "would",
+        "german": "w\u00fcrden"
+    },
+    {
+        "english": "to command, to decree, to mandate",
+        "german": "verf\u00fcgen"
+    },
+    {
+        "english": "in case of",
+        "german": "falls"
+    },
+    {
+        "english": "divided by",
+        "german": "geteilt durch"
+    },
+    {
+        "english": "minus, negative",
+        "german": "minus"
+    },
+    {
+        "english": "plus, positive",
+        "german": "plus"
+    },
+    {
+        "english": "amount",
+        "german": "der Betrag"
+    },
+    {
+        "english": "coin",
+        "german": "die M\u00fcnze"
+    },
+    {
+        "english": "deadline, period of time",
+        "german": "die Frist"
+    },
+    {
+        "english": "interest rate",
+        "german": "der Zins"
+    },
+    {
+        "english": "financing",
+        "german": "die Finanzierung"
+    },
+    {
+        "english": "credit card",
+        "german": "die Kreditkarte"
+    },
+    {
+        "english": "bill, calculation",
+        "german": "die Rechnung"
+    },
+    {
+        "english": "account",
+        "german": "das Konto"
+    },
+    {
+        "english": "payment",
+        "german": "die Zahlung"
+    },
+    {
+        "english": "party",
+        "german": "die Party"
+    },
+    {
+        "english": "original, raw",
+        "german": "das Original"
+    },
+    {
+        "english": "list, bill",
+        "german": "die Liste"
+    },
+    {
+        "english": "length",
+        "german": "die L\u00e4nge"
+    },
+    {
+        "english": "remedy, average, way",
+        "german": "das Mittel"
+    },
+    {
+        "english": "quantity",
+        "german": "die Menge"
+    },
+    {
+        "english": "combination",
+        "german": "die Kombination"
+    },
+    {
+        "english": "commitment, effort",
+        "german": "der Einsatz"
+    },
+    {
+        "english": "circle",
+        "german": "der Kreis"
+    },
+    {
+        "english": "strength, force",
+        "german": "die Kraft"
+    },
+    {
+        "english": "difference",
+        "german": "der Unterschied"
+    },
+    {
+        "english": "position",
+        "german": "die Position"
+    },
+    {
+        "english": "manual, guide, instruction",
+        "german": "die Anleitung"
+    },
+    {
+        "english": "field",
+        "german": "das Feld"
+    },
+    {
+        "english": "access",
+        "german": "der Zugang"
+    },
+    {
+        "english": "look, view, glance",
+        "german": "der Blick"
+    },
+    {
+        "english": "background",
+        "german": "der Hintergrund"
+    },
+    {
+        "english": "step (of a staircase); level",
+        "german": "die Stufe"
+    },
+    {
+        "english": "height",
+        "german": "die H\u00f6he"
+    },
+    {
+        "english": "usage, use",
+        "german": "die Verwendung"
+    },
+    {
+        "english": "feature",
+        "german": "die Eigenschaft"
+    },
+    {
+        "english": "introduction",
+        "german": "die Einf\u00fchrung"
+    },
+    {
+        "english": "implementation, execution",
+        "german": "die Umsetzung"
+    },
+    {
+        "english": "detail",
+        "german": "die Einzelheit"
+    },
+    {
+        "english": "experience",
+        "german": "die Erfahrung"
+    },
+    {
+        "english": "condition, state",
+        "german": "der Zustand"
+    },
+    {
+        "english": "weight",
+        "german": "das Gewicht"
+    },
+    {
+        "english": "action, effect, impact",
+        "german": "die Wirkung"
+    },
+    {
+        "english": "reference, testimonial",
+        "german": "die Referenz"
+    },
+    {
+        "english": "planning",
+        "german": "die Planung"
+    },
+    {
+        "english": "suggestion",
+        "german": "der Vorschlag"
+    },
+    {
+        "english": "version",
+        "german": "die Version"
+    },
+    {
+        "english": "support",
+        "german": "die Unterst\u00fctzung"
+    },
+    {
+        "english": "improvement",
+        "german": "die Verbesserung"
+    },
+    {
+        "english": "overview, survey",
+        "german": "der \u00dcberblick"
+    },
+    {
+        "english": "role, roll",
+        "german": "die Rolle"
+    },
+    {
+        "english": "chasm, column, gap, rift",
+        "german": "die Spalte"
+    },
+    {
+        "english": "category",
+        "german": "die Kategorie"
+    },
+    {
+        "english": "regulation, fate, destiny",
+        "german": "die Bestimmung"
+    },
+    {
+        "english": "basis",
+        "german": "die Basis"
+    },
+    {
+        "english": "warehouse",
+        "german": "das Lager"
+    },
+    {
+        "english": "review, appraisal, assessment",
+        "german": "die Bewertung"
+    },
+    {
+        "english": "payment",
+        "german": "die Bezahlung"
+    },
+    {
+        "english": "trade fair, exhibition",
+        "german": "die Messe"
+    },
+    {
+        "english": "application, offer, proposal, petition",
+        "german": "der Antrag"
+    },
+    {
+        "english": "brand",
+        "german": "die Marke"
+    },
+    {
+        "english": "retail trade",
+        "german": "der Einzelhandel"
+    },
+    {
+        "english": "company, business",
+        "german": "der Betrieb"
+    },
+    {
+        "english": "logistics",
+        "german": "die Logistik"
+    },
+    {
+        "english": "need, requirement, demand",
+        "german": "der Bedarf"
+    },
+    {
+        "english": "spreadsheet, table, chart",
+        "german": "die Tabelle"
+    },
+    {
+        "english": "service",
+        "german": "die Dienstleistung"
+    },
+    {
+        "english": "job vacancy, help-wanted advertisement",
+        "german": "das Stellenangebot"
+    },
+    {
+        "english": "company",
+        "german": "die Firma"
+    },
+    {
+        "english": "offer, bid",
+        "german": "das Angebot"
+    },
+    {
+        "english": "chance",
+        "german": "die Chance"
+    },
+    {
+        "english": "industry",
+        "german": "die Industrie"
+    },
+    {
+        "english": "warranty",
+        "german": "die Garantie"
+    },
+    {
+        "english": "notification, advertisement",
+        "german": "die Anzeige"
+    },
+    {
+        "english": "sales",
+        "german": "der Verkauf"
+    },
+    {
+        "english": "article; merchandise; goods",
+        "german": "die Ware"
+    },
+    {
+        "english": "order, commission",
+        "german": "der Auftrag"
+    },
+    {
+        "english": "advertising",
+        "german": "die Werbung"
+    },
+    {
+        "english": "service",
+        "german": "der Service"
+    },
+    {
+        "english": "performance; achievement; output; benefit",
+        "german": "die Leistung"
+    },
+    {
+        "english": "to negotiate, to dispute, to judge, to try, to bargain",
+        "german": "verhandeln"
+    },
+    {
+        "english": "customer service",
+        "german": "der Kundenservice"
+    },
+    {
+        "english": "stock market",
+        "german": "die B\u00f6rse"
+    },
+    {
+        "english": "delivery",
+        "german": "die Lieferung"
+    },
+    {
+        "english": "insurance",
+        "german": "die Versicherung"
+    },
+    {
+        "english": "expense, edition, issue, distribution",
+        "german": "die Ausgabe"
+    },
+    {
+        "english": "production",
+        "german": "die Produktion"
+    },
+    {
+        "english": "foundation",
+        "german": "die Gr\u00fcndung"
+    },
+    {
+        "english": "branch",
+        "german": "die Branche"
+    },
+    {
+        "english": "to clear away, to detach",
+        "german": "entfernen"
+    },
+    {
+        "english": "to look at; to regard; to consider; to see",
+        "german": "ansehen"
+    },
+    {
+        "english": "to inform, to let somebody know",
+        "german": "informieren"
+    },
+    {
+        "english": "to determine, to decide, to schedule, to settle, to fix",
+        "german": "festlegen"
+    },
+    {
+        "english": "to telephone",
+        "german": "telefonieren"
+    },
+    {
+        "english": "to fulfil, to carry out, to grant, to comply with, to achieve, to pervade",
+        "german": "erf\u00fcllen"
+    },
+    {
+        "english": "to improve",
+        "german": "verbessern"
+    },
+    {
+        "english": "to choose, to elect, to select",
+        "german": "ausw\u00e4hlen"
+    },
+    {
+        "english": "to indicate, to call attention",
+        "german": "anzeigen"
+    },
+    {
+        "english": "to achieve, to afford, to perform",
+        "german": "leisten"
+    },
+    {
+        "english": "bet",
+        "german": "die Wette"
+    },
+    {
+        "english": "game",
+        "german": "das Spiel"
+    },
+    {
+        "english": "hobby",
+        "german": "das Hobby"
+    },
+    {
+        "english": "victory",
+        "german": "der Sieg"
+    },
+    {
+        "english": "league",
+        "german": "die Liga"
+    },
+    {
+        "english": "team",
+        "german": "das Team"
+    },
+    {
+        "english": "ski",
+        "german": "der Ski"
+    },
+    {
+        "english": "participation",
+        "german": "die Teilnahme"
+    },
+    {
+        "english": "movement, flow",
+        "german": "die Bewegung"
+    },
+    {
+        "english": "free time",
+        "german": "die Freizeit"
+    },
+    {
+        "english": "to bet",
+        "german": "wetten"
+    },
+    {
+        "english": "team",
+        "german": "die Mannschaft"
+    },
+    {
+        "english": "to be valid, to apply",
+        "german": "gelten"
+    },
+    {
+        "english": "player",
+        "german": "der Spieler"
+    },
+    {
+        "english": "tennis",
+        "german": "das Tennis"
+    },
+    {
+        "english": "sport",
+        "german": "der Sport"
+    },
+    {
+        "english": "swimming pool",
+        "german": "das Schwimmbad"
+    },
+    {
+        "english": "football",
+        "german": "der Fu\u00dfball"
+    },
+    {
+        "english": "viewer, spectator",
+        "german": "der Zuschauer"
+    },
+    {
+        "english": "German football league",
+        "german": "die Bundesliga"
+    },
+    {
+        "english": "activity",
+        "german": "die Aktivit\u00e4t"
+    },
+    {
+        "english": "ball",
+        "german": "der Ball"
+    },
+    {
+        "english": "established, founded, based",
+        "german": "gegr\u00fcndet"
+    },
+    {
+        "english": "actor",
+        "german": "der Schauspieler"
+    },
+    {
+        "english": "camera",
+        "german": "die Kamera"
+    },
+    {
+        "english": "museum",
+        "german": "das Museum"
+    },
+    {
+        "english": "documentation",
+        "german": "die Dokumentation"
+    },
+    {
+        "english": "activity, job, operation",
+        "german": "die T\u00e4tigkeit"
+    },
+    {
+        "english": "cinema",
+        "german": "das Kino"
+    },
+    {
+        "english": "artist",
+        "german": "der K\u00fcnstler, die K\u00fcnstlerin"
+    },
+    {
+        "english": "to paint",
+        "german": "malen"
+    },
+    {
+        "english": "theater",
+        "german": "das Theater"
+    },
+    {
+        "english": "culture",
+        "german": "die Kultur"
+    },
+    {
+        "english": "frame, framework",
+        "german": "der Rahmen"
+    },
+    {
+        "english": "instrument",
+        "german": "das Instrument"
+    },
+    {
+        "english": "musician",
+        "german": "der Musiker"
+    },
+    {
+        "english": "dance",
+        "german": "der Tanz"
+    },
+    {
+        "english": "art",
+        "german": "die Kunst"
+    },
+    {
+        "english": "style",
+        "german": "der Stil"
+    },
+    {
+        "english": "fashion",
+        "german": "die Mode"
+    },
+    {
+        "english": "song",
+        "german": "das Lied"
+    },
+    {
+        "english": "literature",
+        "german": "die Literatur"
+    },
+    {
+        "english": "jazz",
+        "german": "der Jazz"
+    },
+    {
+        "english": "to dance",
+        "german": "tanzen"
+    },
+    {
+        "english": "stage",
+        "german": "die B\u00fchne"
+    },
+    {
+        "english": "concert",
+        "german": "das Konzert"
+    },
+    {
+        "english": "studio",
+        "german": "das Studio"
+    },
+    {
+        "english": "gallery",
+        "german": "die Galerie"
+    },
+    {
+        "english": "guitar",
+        "german": "die Gitarre"
+    },
+    {
+        "english": "exhibition",
+        "german": "die Ausstellung"
+    },
+    {
+        "english": "design",
+        "german": "das Design"
+    },
+    {
+        "english": "critique, review",
+        "german": "die Kritik"
+    },
+    {
+        "english": "music",
+        "german": "die Musik"
+    },
+    {
+        "english": "production, direction",
+        "german": "die Regie"
+    },
+    {
+        "english": "film",
+        "german": "der Film"
+    },
+    {
+        "english": "start, beginning",
+        "german": "der Start"
+    },
+    {
+        "english": "music instrument",
+        "german": "das Musikinstrument"
+    },
+    {
+        "english": "photography",
+        "german": "die Fotografie"
+    },
+    {
+        "english": "collection",
+        "german": "die Sammlung"
+    },
+    {
+        "english": "model",
+        "german": "das Modell"
+    },
+    {
+        "english": "blueprint, concept, draft, design",
+        "german": "der Entwurf"
+    },
+    {
+        "english": "preferred",
+        "german": "bevorzugt"
+    },
+    {
+        "english": "synagogue",
+        "german": "die Synagoge"
+    },
+    {
+        "english": "priest",
+        "german": "der Priester"
+    },
+    {
+        "english": "rebirth",
+        "german": "die Wiedergeburt"
+    },
+    {
+        "english": "temple",
+        "german": "der Tempel"
+    },
+    {
+        "english": "Christian",
+        "german": "der Christ"
+    },
+    {
+        "english": "to pray",
+        "german": "beten"
+    },
+    {
+        "english": "Buddhism",
+        "german": "der Buddhismus"
+    },
+    {
+        "english": "atheist",
+        "german": "der Atheist"
+    },
+    {
+        "english": "death",
+        "german": "der Tod"
+    },
+    {
+        "english": "god, God",
+        "german": "der Gott"
+    },
+    {
+        "english": "religion",
+        "german": "die Religion"
+    },
+    {
+        "english": "prayer",
+        "german": "das Gebet"
+    },
+    {
+        "english": "Hinduism",
+        "german": "der Hinduismus"
+    },
+    {
+        "english": "holy",
+        "german": "heilig"
+    },
+    {
+        "english": "Jewish person",
+        "german": "der Jude, die J\u00fcdin"
+    },
+    {
+        "english": "Islam",
+        "german": "der Islam"
+    },
+    {
+        "english": "mosque",
+        "german": "die Moschee"
+    },
+    {
+        "english": "monk",
+        "german": "der M\u00f6nch"
+    },
+    {
+        "english": "paradise",
+        "german": "das Paradies"
+    },
+    {
+        "english": "Muslim, Moslem",
+        "german": "der Muslim"
+    },
+    {
+        "english": "church",
+        "german": "die Kirche"
+    },
+    {
+        "english": "politics",
+        "german": "die Politik"
+    },
+    {
+        "english": "approval, authorization, permission",
+        "german": "die Genehmigung"
+    },
+    {
+        "english": "fight, struggle, contest",
+        "german": "der Kampf"
+    },
+    {
+        "english": "state",
+        "german": "der Staat"
+    },
+    {
+        "english": "republic",
+        "german": "die Republik"
+    },
+    {
+        "english": "interest",
+        "german": "das Interesse"
+    },
+    {
+        "english": "king",
+        "german": "der K\u00f6nig"
+    },
+    {
+        "english": "princess",
+        "german": "die Prinzessin"
+    },
+    {
+        "english": "nation, people, masses",
+        "german": "das Volk"
+    },
+    {
+        "english": "election, choice",
+        "german": "die Wahl"
+    },
+    {
+        "english": "instruction",
+        "german": "die Vorschrift"
+    },
+    {
+        "english": "to choose",
+        "german": "w\u00e4hlen"
+    },
+    {
+        "english": "influence",
+        "german": "der Einfluss"
+    },
+    {
+        "english": "town hall",
+        "german": "das Rathaus"
+    },
+    {
+        "english": "process, lawsuit, trial",
+        "german": "der Prozess"
+    },
+    {
+        "english": "condition, terms, stipulation",
+        "german": "die Bedingung"
+    },
+    {
+        "english": "ministry",
+        "german": "das Ministerium"
+    },
+    {
+        "english": "president",
+        "german": "der Pr\u00e4sident"
+    },
+    {
+        "english": "authority",
+        "german": "die Beh\u00f6rde"
+    },
+    {
+        "english": "might, power, strength",
+        "german": "die Macht"
+    },
+    {
+        "english": "party",
+        "german": "die Partei"
+    },
+    {
+        "english": "contract, agreement",
+        "german": "der Vertrag"
+    },
+    {
+        "english": "administration",
+        "german": "die Verwaltung"
+    },
+    {
+        "english": "success",
+        "german": "der Erfolg"
+    },
+    {
+        "english": "rule",
+        "german": "die Regel"
+    },
+    {
+        "english": "damage, flaw, harm",
+        "german": "der Schaden"
+    },
+    {
+        "english": "voice, vote",
+        "german": "die Stimme"
+    },
+    {
+        "english": "decision",
+        "german": "die Entscheidung"
+    },
+    {
+        "english": "trial, procedure",
+        "german": "das Verfahren"
+    },
+    {
+        "english": "inspection, check",
+        "german": "die Kontrolle"
+    },
+    {
+        "english": "politican",
+        "german": "der Politieker, die Politikerin"
+    },
+    {
+        "english": "prince",
+        "german": "der Prinz"
+    },
+    {
+        "english": "government",
+        "german": "die Regierung"
+    },
+    {
+        "english": "law",
+        "german": "das Gesetz"
+    },
+    {
+        "english": "war",
+        "german": "der Krieg"
+    },
+    {
+        "english": "right, law",
+        "german": "das Recht"
+    },
+    {
+        "english": "peace",
+        "german": "der Frieden"
+    },
+    {
+        "english": "queen",
+        "german": "die K\u00f6nigin"
+    },
+    {
+        "english": "male politician",
+        "german": "der Politiker"
+    },
+    {
+        "english": "therefore, because of that",
+        "german": "deswegen"
+    },
+    {
+        "english": "finally, at last, after all",
+        "german": "schlie\u00dflich"
+    },
+    {
+        "english": "to that, to it, in addition",
+        "german": "hinzu"
+    },
+    {
+        "english": "at the moment, currently",
+        "german": "derzeit"
+    },
+    {
+        "english": "any time",
+        "german": "jederzeit"
+    },
+    {
+        "english": "meanwhile, in the meantime, by now",
+        "german": "mittlerweile"
+    },
+    {
+        "english": "again",
+        "german": "nochmals"
+    },
+    {
+        "english": "still, furthermore",
+        "german": "weiterhin"
+    },
+    {
+        "english": "whereas",
+        "german": "hingegen"
+    },
+    {
+        "english": "just now",
+        "german": "soeben"
+    },
+    {
+        "english": "with this, herewith",
+        "german": "hiermit"
+    },
+    {
+        "english": "for this, with this, about this",
+        "german": "hierzu"
+    },
+    {
+        "english": "also",
+        "german": "ebenfalls"
+    },
+    {
+        "english": "anyhow, even so, yet",
+        "german": "dennoch"
+    },
+    {
+        "english": "in particular, especially",
+        "german": "insbesondere"
+    },
+    {
+        "english": "section, category",
+        "german": "die Rubrik"
+    },
+    {
+        "english": "use, application of abstract techniques or medical treatments",
+        "german": "die Anwendung"
+    },
+    {
+        "english": "comparison",
+        "german": "der Vergleich"
+    },
+    {
+        "english": "facility",
+        "german": "die Anlage"
+    },
+    {
+        "english": "cooperation",
+        "german": "die Kooperation"
+    },
+    {
+        "english": "view, show, exhibition",
+        "german": "die Schau"
+    },
+    {
+        "english": "entrance",
+        "german": "der Eingang"
+    },
+    {
+        "english": "completion, closure, ending, degree",
+        "german": "der Abschluss"
+    },
+    {
+        "english": "reception, recipience, arrival",
+        "german": "der Empfang"
+    },
+    {
+        "english": "approach, beginnings, start",
+        "german": "der Ansatz"
+    },
+    {
+        "english": "system",
+        "german": "das System"
+    },
+    {
+        "english": "attitude, setting, employee recruitment",
+        "german": "die Einstellung"
+    },
+    {
+        "english": "symbol",
+        "german": "das Symbol"
+    },
+    {
+        "english": "card, map",
+        "german": "die Karte"
+    },
+    {
+        "english": "surface",
+        "german": "die Oberfl\u00e4che"
+    },
+    {
+        "english": "level",
+        "german": "das Niveau"
+    },
+    {
+        "english": "speed",
+        "german": "die Geschwindigkeit"
+    },
+    {
+        "english": "remainder, remnant",
+        "german": "der Rest"
+    },
+    {
+        "english": "event",
+        "german": "das Ereignis"
+    },
+    {
+        "english": "circulation, edition",
+        "german": "die Auflage"
+    },
+    {
+        "english": "agency",
+        "german": "die Agentur"
+    },
+    {
+        "english": "tradition",
+        "german": "die Tradition"
+    },
+    {
+        "english": "obligation, liability, duty",
+        "german": "die Verpflichtung"
+    },
+    {
+        "english": "supply",
+        "german": "die Versorgung"
+    },
+    {
+        "english": "round",
+        "german": "die Runde"
+    },
+    {
+        "english": "material",
+        "german": "das Material"
+    },
+    {
+        "english": "case, instance",
+        "german": "der Fall"
+    },
+    {
+        "english": "idea; picture, imagination",
+        "german": "die Vorstellung"
+    },
+    {
+        "english": "circumference, perimeter, girth, extent",
+        "german": "der Umfang"
+    },
+    {
+        "english": "lecture, talk",
+        "german": "der Vortrag"
+    },
+    {
+        "english": "character, personality",
+        "german": "der Charakter"
+    },
+    {
+        "english": "reference, covering, purchasing",
+        "german": "der Bezug"
+    },
+    {
+        "english": "violence",
+        "german": "die Gewalt"
+    },
+    {
+        "english": "danger, threat",
+        "german": "die Gefahr"
+    },
+    {
+        "english": "qualification",
+        "german": "die Qualifikation"
+    },
+    {
+        "english": "mediation, arrangement, negotiation",
+        "german": "die Vermittlung"
+    },
+    {
+        "english": "promotion, support",
+        "german": "die F\u00f6rderung"
+    },
+    {
+        "english": "repair",
+        "german": "die Reparatur"
+    },
+    {
+        "english": "share",
+        "german": "der Anteil"
+    },
+    {
+        "english": "criterion",
+        "german": "das Kriterium"
+    },
+    {
+        "english": "example",
+        "german": "das Beispiel"
+    },
+    {
+        "english": "loss",
+        "german": "der Verlust"
+    },
+    {
+        "english": "content",
+        "german": "der Inhalt"
+    },
+    {
+        "english": "opening",
+        "german": "die Er\u00f6ffnung"
+    },
+    {
+        "english": "paragraph, section",
+        "german": "der Abschnitt"
+    },
+    {
+        "english": "admission",
+        "german": "der Eintritt"
+    },
+    {
+        "english": "mean, average",
+        "german": "der Durchschnitt"
+    },
+    {
+        "english": "to depict",
+        "german": "darstellen"
+    },
+    {
+        "english": "optimist",
+        "german": "der Optimist"
+    },
+    {
+        "english": "pessimist",
+        "german": "der Pessimist"
+    },
+    {
+        "english": "skeptical",
+        "german": "skeptisch"
+    },
+    {
+        "english": "consciousness",
+        "german": "das Bewusstsein"
+    },
+    {
+        "english": "reality",
+        "german": "die Wirklichkeit"
+    },
+    {
+        "english": "true",
+        "german": "wahr"
+    },
+    {
+        "english": "philosophy",
+        "german": "die Philosophie"
+    },
+    {
+        "english": "to let, to leave",
+        "german": "lassen"
+    },
+    {
+        "english": "to communicate, to convey",
+        "german": "vermitteln"
+    },
+    {
+        "english": "to activate, to enable",
+        "german": "aktivieren"
+    },
+    {
+        "english": "to hang",
+        "german": "h\u00e4ngen"
+    },
+    {
+        "english": "to deliver",
+        "german": "liefern"
+    },
+    {
+        "english": "to plan",
+        "german": "planen"
+    },
+    {
+        "english": "to exist",
+        "german": "bestehen"
+    },
+    {
+        "english": "to represent",
+        "german": "vertreten"
+    },
+    {
+        "english": "to recommend",
+        "german": "empfehlen"
+    },
+    {
+        "english": "to emerge, to arise, to result",
+        "german": "entstehen"
+    },
+    {
+        "english": "to accomplish, to manage, to make",
+        "german": "schaffen"
+    },
+    {
+        "english": "to get",
+        "german": "bekommen"
+    },
+    {
+        "english": "to treat",
+        "german": "behandeln"
+    },
+    {
+        "english": "to exist",
+        "german": "existieren"
+    },
+    {
+        "english": "to amount to, to result in, to yield",
+        "german": "ergeben"
+    },
+    {
+        "english": "to conclude, to terminate, to finalize",
+        "german": "beenden"
+    },
+    {
+        "english": "to edit, treat, process, adapt, revise, elaborate",
+        "german": "bearbeiten"
+    },
+    {
+        "english": "to open, to introduce, to initialize",
+        "german": "er\u00f6ffnen"
+    },
+    {
+        "english": "to guarantee",
+        "german": "garantieren"
+    },
+    {
+        "english": "to entitle, to justify",
+        "german": "berechtigen"
+    },
+    {
+        "english": "to be sufficient",
+        "german": "gen\u00fcgen"
+    },
+    {
+        "english": "to demand, to require",
+        "german": "fordern"
+    },
+    {
+        "english": "alien",
+        "german": "der Au\u00dferirdische"
+    },
+    {
+        "english": "dimension",
+        "german": "die Dimension"
+    },
+    {
+        "english": "planet",
+        "german": "der Planet"
+    },
+    {
+        "english": "galaxy",
+        "german": "die Galaxie"
+    },
+    {
+        "english": "witch",
+        "german": "die Hexe"
+    },
+    {
+        "english": "dragon",
+        "german": "der Drache(n)"
+    },
+    {
+        "english": "(outer) space",
+        "german": "der Weltraum"
+    },
+    {
+        "english": "unbelievable, incredible",
+        "german": "unglaublich"
+    },
+    {
+        "english": "to save; to rescue",
+        "german": "retten"
+    },
+    {
+        "english": "magic",
+        "german": "die Magie"
+    },
+    {
+        "english": "magical",
+        "german": "magisch"
+    },
+    {
+        "english": "time machine",
+        "german": "die Zeitmaschine"
+    },
+    {
+        "english": "spaceship",
+        "german": "das Raumschiff"
+    },
+    {
+        "english": "to transform",
+        "german": "verwandeln"
+    },
+    {
+        "english": "unicorn",
+        "german": "das Einhorn"
+    },
+    {
+        "english": "to disappear",
+        "german": "verschwinden"
+    },
+    {
+        "english": "time travel",
+        "german": "die Zeitreise"
+    },
+    {
+        "english": "to discover",
+        "german": "entdecken"
+    },
+    {
+        "english": "composure, mounting",
+        "german": "die Fassung"
+    },
+    {
+        "english": "standard",
+        "german": "der Standard"
+    },
+    {
+        "english": "preparation",
+        "german": "die Vorbereitung"
+    },
+    {
+        "english": "support, supervision, assistance, care, mentoring",
+        "german": "die Betreuung"
+    },
+    {
+        "english": "course, run",
+        "german": "der Lauf"
+    },
+    {
+        "english": "construction, structure, assembling",
+        "german": "der Aufbau"
+    },
+    {
+        "english": "purpose",
+        "german": "der Zweck"
+    },
+    {
+        "english": "feature; attribute",
+        "german": "das Merkmal"
+    },
+    {
+        "english": "department",
+        "german": "die Abteilung"
+    },
+    {
+        "english": "exchange",
+        "german": "der Austausch"
+    },
+    {
+        "english": "breadth, width, amplitude",
+        "german": "die Breite"
+    },
+    {
+        "english": "structure",
+        "german": "die Struktur"
+    },
+    {
+        "english": "plain, level, layer",
+        "german": "die Ebene"
+    },
+    {
+        "english": "line",
+        "german": "die Linie"
+    },
+    {
+        "english": "depth",
+        "german": "die Tiefe"
+    },
+    {
+        "english": "exception",
+        "german": "die Ausnahme"
+    },
+    {
+        "english": "alternative",
+        "german": "die Alternative"
+    },
+    {
+        "english": "entry (in a book), inscription",
+        "german": "der Eintrag"
+    },
+    {
+        "english": "detail",
+        "german": "das Detail"
+    },
+    {
+        "english": "term, description, marking",
+        "german": "die Bezeichnung"
+    },
+    {
+        "english": "dot, point, full stop",
+        "german": "der Punkt"
+    },
+    {
+        "english": "volume",
+        "german": "der Band"
+    },
+    {
+        "english": "kind, type",
+        "german": "die Art"
+    },
+    {
+        "english": "opinion, view",
+        "german": "die Ansicht"
+    },
+    {
+        "english": "series",
+        "german": "die Serie"
+    },
+    {
+        "english": "sound, tone, clay",
+        "german": "der Ton"
+    },
+    {
+        "english": "order, tidiness",
+        "german": "die Ordnung"
+    },
+    {
+        "english": "principle",
+        "german": "das Prinzip"
+    },
+    {
+        "english": "connection (TV, internet), annexation, contact",
+        "german": "der Anschluss"
+    },
+    {
+        "english": "origin",
+        "german": "die Herkunft"
+    },
+    {
+        "english": "figure",
+        "german": "die Figur"
+    },
+    {
+        "english": "calculation",
+        "german": "die Berechnung"
+    },
+    {
+        "english": "seat",
+        "german": "der Sitz"
+    },
+    {
+        "english": "option",
+        "german": "die Option"
+    },
+    {
+        "english": "benefit, advantage",
+        "german": "der Vorteil"
+    },
+    {
+        "english": "opposite; in contrast",
+        "german": "der Gegensatz"
+    },
+    {
+        "english": "format",
+        "german": "das Format"
+    },
+    {
+        "english": "managementcable; line",
+        "german": "die Leitung"
+    },
+    {
+        "english": "evaluation; assessment",
+        "german": "die Wertung"
+    },
+    {
+        "english": "view",
+        "german": "die Sicht"
+    },
+    {
+        "english": "source, wellspring",
+        "german": "die Quelle"
+    },
+    {
+        "english": "coherence, connection, link",
+        "german": "der Zusammenhang"
+    },
+    {
+        "english": "situation",
+        "german": "die Situation"
+    },
+    {
+        "english": "overview, summary",
+        "german": "die \u00dcbersicht"
+    },
+    {
+        "english": "protection",
+        "german": "der Schutz"
+    },
+    {
+        "english": "consequence",
+        "german": "die Folge"
+    },
+    {
+        "english": "possibility",
+        "german": "die M\u00f6glichkeit"
+    },
+    {
+        "english": "responsibility",
+        "german": "die Verantwortung"
+    },
+    {
+        "english": "risk",
+        "german": "das Risiko"
+    },
+    {
+        "english": "expression",
+        "german": "der Ausdruck"
+    },
+    {
+        "english": "use",
+        "german": "die Nutzung"
+    },
+    {
+        "english": "mistake",
+        "german": "der Fehler"
+    },
+    {
+        "english": "ribbon, strap",
+        "german": "das Band"
+    },
+    {
+        "english": "function",
+        "german": "die Funktion"
+    },
+    {
+        "english": "stimulus, idea, motivation",
+        "german": "die Anregung"
+    },
+    {
+        "english": "center, middle, midway, medium",
+        "german": "die Mitte"
+    },
+    {
+        "english": "step",
+        "german": "der Schritt"
+    },
+    {
+        "english": "part, fraction",
+        "german": "der Teil"
+    },
+    {
+        "english": "admission, reception, recording",
+        "german": "die Aufnahme"
+    },
+    {
+        "english": "basis, foundation, principle",
+        "german": "die Grundlage"
+    },
+    {
+        "english": "row, line, array",
+        "german": "die Reihe"
+    },
+    {
+        "english": "distance, removal, range",
+        "german": "die Entfernung"
+    },
+    {
+        "english": "change",
+        "german": "der Wechsel"
+    },
+    {
+        "english": "music band",
+        "german": "die Band"
+    },
+    {
+        "english": "assignment, task, job",
+        "german": "die Aufgabe"
+    },
+    {
+        "english": "unity",
+        "german": "die Einheit"
+    },
+    {
+        "english": "requirement, demand",
+        "german": "die Anforderung"
+    },
+    {
+        "english": "declaration, statement, information, representation",
+        "german": "die Angabe"
+    },
+    {
+        "english": "whose",
+        "german": "dessen"
+    },
+    {
+        "english": "those (indirect object), which, what, whom",
+        "german": "denen"
+    },
+    {
+        "english": "whose",
+        "german": "deren"
+    },
+    {
+        "english": "composer",
+        "german": "der Komponist"
+    },
+    {
+        "english": "melody",
+        "german": "die Melodie"
+    },
+    {
+        "english": "violin",
+        "german": "die Geige"
+    },
+    {
+        "english": "drum",
+        "german": "die Trommel"
+    },
+    {
+        "english": "opera",
+        "german": "die Oper"
+    },
+    {
+        "english": "orchestra",
+        "german": "das Orchester"
+    },
+    {
+        "english": "to sound",
+        "german": "klingen"
+    },
+    {
+        "english": "flute",
+        "german": "die Fl\u00f6te"
+    },
+    {
+        "english": "singer",
+        "german": "der S\u00e4nger, die S\u00e4ngerin"
+    },
+    {
+        "english": "(female) singer",
+        "german": "die S\u00e4ngerin"
+    },
+    {
+        "english": "conductor",
+        "german": "der Dirigent"
+    },
+    {
+        "english": "piano",
+        "german": "das Klavier"
+    },
+    {
+        "english": "to conduct (an orchestra); to channel",
+        "german": "dirigieren"
+    },
+    {
+        "english": "corrupt",
+        "german": "korrupt"
+    },
+    {
+        "english": "Federal Republic",
+        "german": "die Bundesrepublik"
+    },
+    {
+        "english": "freedom",
+        "german": "die Freiheit"
+    },
+    {
+        "english": "to protest",
+        "german": "protestieren"
+    },
+    {
+        "english": "council, advice",
+        "german": "der Rat"
+    },
+    {
+        "english": "planned event, organization, meeting",
+        "german": "die Veranstaltung"
+    },
+    {
+        "english": "agreement",
+        "german": "die Vereinbarung"
+    },
+    {
+        "english": "judgment",
+        "german": "das Urteil"
+    },
+    {
+        "english": "association, connectionbandage",
+        "german": "der Verband"
+    },
+    {
+        "english": "claim, demand",
+        "german": "der Anspruch"
+    },
+    {
+        "english": "strategy",
+        "german": "die Strategie"
+    },
+    {
+        "english": "tax",
+        "german": "die Steuer"
+    },
+    {
+        "english": "office, position, post, agency",
+        "german": "das Amt"
+    },
+    {
+        "english": "survey",
+        "german": "die Umfrage"
+    },
+    {
+        "english": "empire",
+        "german": "das Reich"
+    },
+    {
+        "english": "federal government",
+        "german": "die Bundesregierung"
+    },
+    {
+        "english": "economy",
+        "german": "die Wirtschaft"
+    },
+    {
+        "english": "police",
+        "german": "die Polizei"
+    },
+    {
+        "english": "sausage",
+        "german": "die Wurst"
+    },
+    {
+        "english": "Day of German Unity",
+        "german": "der Tag der Deutschen Einheit"
+    },
+    {
+        "english": "pilsner",
+        "german": "das Pils"
+    },
+    {
+        "english": "sauerkraut",
+        "german": "das Sauerkraut"
+    },
+    {
+        "english": "pretzel",
+        "german": "die Brezel"
+    },
+    {
+        "english": "kiosk",
+        "german": "der Kiosk"
+    },
+    {
+        "english": "Oktoberfest",
+        "german": "das Oktoberfest"
+    },
+    {
+        "english": "to celebrate",
+        "german": "feiern"
+    },
+    {
+        "english": "celebration",
+        "german": "das Fest"
+    },
+    {
+        "english": "pyramid",
+        "german": "die Pyramide"
+    },
+    {
+        "english": "north pole",
+        "german": "der Nordpol"
+    },
+    {
+        "english": "Egypt",
+        "german": "\u00c4gypten"
+    },
+    {
+        "english": "Australia",
+        "german": "Australien"
+    },
+    {
+        "english": "Asia",
+        "german": "Asien"
+    },
+    {
+        "english": "India",
+        "german": "Indien"
+    },
+    {
+        "english": "China",
+        "german": "China"
+    },
+    {
+        "english": "North America",
+        "german": "Nordamerika"
+    },
+    {
+        "english": "continent",
+        "german": "der Kontinent"
+    },
+    {
+        "english": "Poland",
+        "german": "Polen"
+    },
+    {
+        "english": "union",
+        "german": "die Union"
+    },
+    {
+        "english": "south pole",
+        "german": "der S\u00fcdpol"
+    },
+    {
+        "english": "Turkey",
+        "german": "die T\u00fcrkei"
+    },
+    {
+        "english": "Russia",
+        "german": "Russland"
+    },
+    {
+        "english": "South America",
+        "german": "S\u00fcdamerika"
+    },
+    {
+        "english": "European",
+        "german": "europ\u00e4isch"
+    },
+    {
+        "english": "to fall in love",
+        "german": "sich verlieben"
+    },
+    {
+        "english": "to make a telephone call, to call, to challenge",
+        "german": "anrufen"
+    },
+    {
+        "english": "to rot, to decay",
+        "german": "faulen"
+    },
+    {
+        "english": "feather",
+        "german": "die Feder"
+    },
+    {
+        "english": "broth, pulp",
+        "german": "der Brei"
+    },
+    {
+        "english": "powerful, mighty",
+        "german": "m\u00e4chtig"
+    },
+    {
+        "english": "sparrow",
+        "german": "der Spatz"
+    },
+    {
+        "english": "pigeon, dove",
+        "german": "die Taube"
+    },
+    {
+        "english": "bucket, pail",
+        "german": "der Eimer"
+    },
+    {
+        "english": "devil",
+        "german": "der Teufel"
+    },
+    {
+        "english": "sword",
+        "german": "das Schwert"
+    },
+    {
+        "english": "rigid, stiff, starchy",
+        "german": "steif"
+    },
+    {
+        "english": "blind",
+        "german": "blind"
+    },
+    {
+        "english": "mosquito",
+        "german": "die M\u00fccke"
+    },
+    {
+        "english": "lazyrotten",
+        "german": "faul"
+    },
+    {
+        "english": "to pour",
+        "german": "sch\u00fctten"
+    },
+    {
+        "english": "laughter",
+        "german": "das Lachen"
+    },
+    {
+        "english": "corn, grain",
+        "german": "das Korn"
+    },
+    {
+        "english": "to spoil, to ruin, to corrupt, to taint",
+        "german": "verderben"
+    },
+    {
+        "english": "cookie, biscuit",
+        "german": "der Keks"
+    },
+    {
+        "english": "snowball",
+        "german": "der Schneeball"
+    },
+    {
+        "english": "gingerbread",
+        "german": "der Lebkuchen"
+    },
+    {
+        "english": "sled, sledge, sleigh",
+        "german": "der Schlitten"
+    },
+    {
+        "english": "Christmas song",
+        "german": "das Weihnachtslied"
+    },
+    {
+        "english": "Santa",
+        "german": "der Weihnachtsmann"
+    },
+    {
+        "english": "New Year",
+        "german": "das Neujahr"
+    },
+    {
+        "english": "Christmas tree",
+        "german": "der Weihnachtsbaum"
+    },
+    {
+        "english": "to throw",
+        "german": "werfen"
+    },
+    {
+        "english": "Christmas market",
+        "german": "der Weihnachtsmarkt"
+    },
+    {
+        "english": "reindeer",
+        "german": "das Rentier"
+    },
+    {
+        "english": "cheerful, merry, happy, glad",
+        "german": "froh"
+    },
+    {
+        "english": "Gingerbread man",
+        "german": "der Lebkuchenmann"
+    },
+    {
+        "english": "booster seat",
+        "german": "der Kindersitz"
+    },
+    {
+        "english": "toddler",
+        "german": "das Kleinkind"
+    },
+    {
+        "english": "diaper changing table",
+        "german": "der Wickeltisch"
+    },
+    {
+        "english": "diaper",
+        "german": "die Windel"
+    },
+    {
+        "english": "pram, stroller",
+        "german": "der Kinderwagen"
+    },
+    {
+        "english": "dummy",
+        "german": "der Schnuller"
+    },
+    {
+        "english": "to notice",
+        "german": "bemerken"
+    },
+    {
+        "english": "time",
+        "german": "die Zeit"
+    },
+    {
+        "english": "All's well that ends well.",
+        "german": "Ende gut, alles gut."
+    },
+    {
+        "english": "That is yesterday's news.",
+        "german": "Das ist Schnee von gestern."
+    },
+    {
+        "english": "I'll keep my fingers crossed for you!; I'll press my thumbs for you!",
+        "german": "Ich dr\u00fccke dir die Daumen!"
+    },
+    {
+        "english": "Out of sight, out of mind.",
+        "german": "Aus den Augen, aus dem Sinn."
+    },
+    {
+        "english": "It costs peanuts.",
+        "german": "Es kostet nur einen Apfel und ein Ei."
+    },
+    {
+        "english": "Laughter is the best medicine.",
+        "german": "Lachen ist die beste Medizin."
+    },
+    {
+        "english": "Practice makes perfect.",
+        "german": "Es ist noch kein Meister vom Himmel gefallen."
+    },
+    {
+        "english": "German is hard.",
+        "german": "Deutsche Sprache, schwere Sprache."
+    },
+    {
+        "english": "It is raining cats and dogs.",
+        "german": "Es sch\u00fcttet wie aus Eimern."
+    },
+    {
+        "english": "Too many cooks spoil the broth.",
+        "german": "Viele K\u00f6che verderben den Brei."
+    },
+    {
+        "english": "The straw that breaks the camel's back.",
+        "german": "Der Tropfen, der das Fass zum \u00dcberlaufen bringt."
+    },
+    {
+        "english": "day by day",
+        "german": "tag um tag"
+    },
+    {
+        "english": "it doesn't matter",
+        "german": "es ist egal"
+    }
+]
