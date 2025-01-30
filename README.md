@@ -13,6 +13,8 @@ sudo systemctl start simple-word-match
 sudo systemctl enable simple-word-match
 ```
 
+(Note that specifically it is the enable that enables to rerun on boot)
+
 To check if the service is running:
 
 `sudo systemctl status simple-word-match`
@@ -21,6 +23,14 @@ Don't forget that gunicorn needs to be installed in the venv:
 
 pip install gunicorn
 
-To use the app from a browser:
+To stop the service:
 
-http://192.168.178.40:8100
+`sudo systemctl stop simple-word-match`
+
+To restart the service:
+
+`sudo systemctl restart simple-word-match`
+
+### To use the app from a browser:
+
+http://192.168.178.40:8000

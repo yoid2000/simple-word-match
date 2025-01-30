@@ -3,11 +3,60 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flask App</title>
+    <title>Word Match</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <style>
+        .button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            text-align: center;
+            cursor: pointer;
+        }
+        .button.pushed {
+            background-color: #ddd;
+        }
+    </style>
 </head>
 <body>
-    <h1>Welcome to My Flask App</h1>
-    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    <h1>Word Match</h1>
+    <div style="display: flex;">
+        <div style="flex: 1;">
+            {% for word in english_words %}
+                <div class="button" style="color: {{ word.color }};" onclick="pushButton(this, 'left', {{ loop.index0 }})">{{ word.word }}</div>
+            {% endfor %}
+        </div>
+        <div style="flex: 1;">
+            {% for word in german_words %}
+                <div class="button" style="color: {{ word.color }};" onclick="pushButton(this, 'right', {{ loop.index0 }})">{{ word.word }}</div>
+            {% endfor %}
+        </div>
+    </div>
+    <script>
+        let leftPushed = null;
+        let rightPushed = null;
+
+        function pushButton(button, column, index) {
+            if (column === 'left') {
+                if (leftPushed) {
+                    leftPushed.classList.remove('pushed');
+                }
+                leftPushed = button;
+            } else {
+                if (rightPushed) {
+                    rightPushed.classList.remove('pushed');
+                }
+                rightPushed = button;
+            }
+            button.classList.add('pushed');
+
+            if (leftPushed && rightPushed) {
+                const x = leftPushed.getAttribute('data-index');
+                const y = rightPushed.getAttribute('data-index');
+                window.location.href = `/?x=${x}&y=${y}`;
+            }
+        }
+    </script>
 </body>
 </html>
