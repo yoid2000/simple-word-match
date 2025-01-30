@@ -8,7 +8,10 @@ wm = WordManager(num_words=10)
 def home():
     x = request.args.get('x')
     y = request.args.get('y')
+    print(f"x: {x}, y: {y}")
     english_words, german_words = wm.get_words(english_index=int(x) if x is not None else None, german_index=int(y) if y is not None else None)
+    print(english_words)
+    print(german_words)
     return render_template('index.html', english_words=english_words, german_words=german_words)
 
 if __name__ == "__main__":
