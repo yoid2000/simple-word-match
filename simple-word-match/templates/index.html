@@ -24,12 +24,12 @@
     <div style="display: flex;">
         <div style="flex: 1;">
             {% for word in english_words %}
-                <div class="button" style="color: {{ word.color }};" onclick="pushButton(this, 'left', {{ loop.index0 }})">{{ word.word }}</div>
+                <div class="button" style="color: {{ word.color }};" data-index="{{ loop.index0 }}" onclick="pushButton(this, 'left', {{ loop.index0 }})">{{ word.word }}</div>
             {% endfor %}
         </div>
         <div style="flex: 1;">
             {% for word in german_words %}
-                <div class="button" style="color: {{ word.color }};" onclick="pushButton(this, 'right', {{ loop.index0 }})">{{ word.word }}</div>
+                <div class="button" style="color: {{ word.color }};" data-index="{{ loop.index0 }}" onclick="pushButton(this, 'right', {{ loop.index0 }})">{{ word.word }}</div>
             {% endfor %}
         </div>
     </div>
