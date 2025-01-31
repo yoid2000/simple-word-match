@@ -6,6 +6,32 @@ class WordManager:
         self.num_words = num_words
         self.file_path = 'translations.json'
         self.words = self._load_words()
+        self.english_words = []
+        self.german_words = []
+        self._initialize()
+
+    def get_words(self, english_index=None, german_index=None):
+        if english_index is None:
+            self._initialize()
+        elif self.english_order[english_index] == self.german_order[german_index]:
+            # Correct guess, so make the words grey
+            self.english_words[english_index]['color'] = 'lightgrey'
+            self.german_words[german_index]['color'] = 'lightgrey'
+            if self._all_grey() or english_index is None:
+                self._initialize()
+        else:
+            # Incorrect guess, so color the words red
+            self.english_words[english_index]['color'] = 'red'
+            self.german_words[german_index]['color'] = 'red'
+        return self.english_words, self.german_words
+
+    def _all_grey(self):
+        for word in self.english_words:
+            if word['color'] != 'lightgrey':
+                return False
+        return True
+
+    def _initialize(self):
         # working_set is the set of indices of words currently on display
         self.working_set = self._assign_initial_words()
         # english_order and german_order are indices into working_set and
@@ -14,36 +40,14 @@ class WordManager:
         random.shuffle(self.english_order)
         self.german_order = [i for i in range(self.num_words)]
         random.shuffle(self.german_order)
-
-    def get_words(self, english_index=None, german_index=None):
-        ''' Returns the lists of English and German words, in the order of display.
-            If the english_index and german_index are not None and match, the words are removed
-            and new words put in their place, colored black.
-            If the don't match, then the same list if returned, but with the two
-            words colored red.
-        '''
-        # First populate the default list of words, and default color black
-        english_words = []
+        self.english_words = []
         for i in self.english_order:
-            english_words.append({'color': 'black',
+            self.english_words.append({'color': 'black',
                                   'word': self.words[self.working_set[i]]['english']})
-        german_words = []
+        self.german_words = []
         for i in self.german_order:
-            german_words.append({'color': 'black',
+            self.german_words.append({'color': 'black',
                                   'word': self.words[self.working_set[i]]['german']})
-        if english_index is not None:
-            # Player made a guess, so let's see if it is correct
-            if self.english_order[english_index] == self.german_order[german_index]:
-                # Correct guess, so replace the words
-                new_word_index = self._get_random_word()
-                self.working_set[self.english_order[english_index]] = new_word_index
-                english_words[english_index]['word'] = self.words[new_word_index]['english']
-                german_words[german_index]['word'] = self.words[new_word_index]['german']
-            else:
-                # Incorrect guess, so color the words red
-                english_words[english_index]['color'] = 'red'
-                german_words[german_index]['color'] = 'red'
-        return english_words, german_words
 
     def _get_random_word(self):
         ''' Gets a random index from the list of words as long as it is not already
