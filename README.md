@@ -33,4 +33,5 @@ To restart the service:
 
 ### To use the app from a browser:
 
-http://192.168.178.40:8100
+http://192.168.178.40:8100 or
+http://192.168.178.40:8200

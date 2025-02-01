@@ -65,29 +65,3 @@ class WordManager:
     def _assign_initial_words(self):
         # Get a random set of indexes to select words from
         return random.sample(range(len(self.words)), self.num_words)
-
-if __name__ == '__main__':
-    wm = WordManager()
-    english_words, german_words = wm.get_words()
-    next_english_index = 0
-    prompt = ''
-    while(True):
-        for i in range(len(english_words)):
-            print(f"{i}:")
-            print(english_words[i])
-            print(german_words[i])
-        # get input from command line
-        index = input(f"{prompt} {next_english_index} -> ")
-        if index == 'q':
-            break
-        # split indices on ',' and convert to integers
-        index = int(index)
-        english_words, german_words = wm.get_words(english_index=next_english_index, german_index=index)
-        prompt = "Good!\n"
-        for word in english_words:
-            if word['color'] == 'red':
-                prompt = "Boo boo\n"
-        if prompt == "Good!\n":
-            next_english_index += 1
-            if next_english_index == len(english_words):
-                next_english_index = 0
