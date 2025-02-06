@@ -40,7 +40,7 @@ To debug from the browser, do shift-ctl-I to start the browser debugger.
 
 To debug from the server app, do:
 
-`ExecStart=/usr/local/bin/gunicorn -w 1 -b 192.168.178.40:8200 app:app --timeout 120`
+`/usr/local/bin/gunicorn -w 1 -b 192.168.178.40:8200 app:app --timeout 120`
 
 at the server terminal command line.
 
