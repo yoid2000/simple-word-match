@@ -23,20 +23,38 @@
     <div style="display: flex;">
         <div style="flex: 1;">
             {% for word in english_words %}
-                <div class="button" style="color: {{ word.color }};" data-index="{{ loop.index0 }}" onclick="pushButton(this, 'left', {{ loop.index0 }})">{{ word.word }}</div>
+                <div class="button" style="color: {{ word.color }};" data-index="{{ loop.index0 }}" onclick="handleClick(this, 'left', {{ loop.index0 }}, 'single')" ondblclick="handleClick(this, 'left', {{ loop.index0 }}, 'double')">{{ word.word }}</div>
             {% endfor %}
         </div>
         <div style="flex: 1;">
             {% for word in german_words %}
-                <div class="button" style="color: {{ word.color }};" data-index="{{ loop.index0 }}" onclick="pushButton(this, 'right', {{ loop.index0 }})">{{ word.word }}</div>
+                <div class="button" style="color: {{ word.color }};" data-index="{{ loop.index0 }}" onclick="handleClick(this, 'right', {{ loop.index0 }}, 'single')" ondblclick="handleClick(this, 'right', {{ loop.index0 }}, 'double')">{{ word.word }}</div>
             {% endfor %}
         </div>
     </div>
     <script>
         let leftPushed = null;
         let rightPushed = null;
+        let clickTimeout = null;
 
-        function pushButton(button, column, index) {
+        function handleClick(button, column, index, clickType) {
+            if (clickType === 'single') {
+                if (clickTimeout) {
+                    clearTimeout(clickTimeout);
+                }
+                clickTimeout = setTimeout(() => {
+                    pushButton(button, column, index, clickType);
+                }, 300); // Delay to distinguish single click from double click
+            } else if (clickType === 'double') {
+                if (clickTimeout) {
+                    clearTimeout(clickTimeout);
+                    clickTimeout = null;
+                }
+                pushButton(button, column, index, clickType);
+            }
+        }
+
+        function pushButton(button, column, index, clickType) {
             if (column === 'left') {
                 if (leftPushed) {
                     leftPushed.classList.remove('pushed');
@@ -53,7 +71,7 @@
             if (leftPushed && rightPushed) {
                 const x = leftPushed.getAttribute('data-index');
                 const y = rightPushed.getAttribute('data-index');
-                window.location.href = `/?x=${x}&y=${y}`;
+                window.location.href = `/?x=${x}&y=${y}&clickType=${clickType}`;
             }
         }
     </script>
