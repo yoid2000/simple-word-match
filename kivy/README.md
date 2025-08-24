@@ -37,9 +37,11 @@ This is a Kivy-based version of the Simple Word Match app for Android. It does n
 #### **A. On Ubuntu/Linux/WSL:**
 
 1. **Install dependencies:**
+   - The following assumes that a venv has been setup and activated
    - `sudo apt update && sudo apt install -y python3-pip git build-essential python3-setuptools python3-venv unzip openjdk-17-jdk`
-   - `pip install --user buildozer`
+   - `pip install buildozer`
    - `pip install kivy`
+   - `pip install cython`
 2. **Clone or copy this `kivy/` directory to your Ubuntu/WSL/Linux system.**
 3. **Initialize Buildozer:**
    - `cd kivy`
