@@ -1,0 +1,1 @@
+/* No CSS needed for Kivy app. This file is a placeholder to show that static/ is not used. */
