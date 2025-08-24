@@ -134,27 +134,53 @@ class WordMatchScreen(BoxLayout):
         self.german_col.clear_widgets()
         self.english_buttons = []
         self.german_buttons = []
+        button_spacing = 2  # tight spacing
         for i, word in enumerate(self.english_words):
-            btn = DoubleTapButton(text=word['word'], background_color=self.get_color(word['color']))
+            btn = DoubleTapButton(
+                text=word['word'],
+                background_color=self.get_color(word['color']),
+                size_hint_y=None,
+                halign='left',
+                valign='middle',
+                padding=[2, 0],
+                font_size=20
+            )
+            btn.text_size = (btn.width, None)
+            btn.bind(width=lambda instance, value: setattr(instance, 'text_size', (value, None)))
+            # Bind height to texture_size for tight vertical fit
+            btn.bind(texture_size=lambda instance, value: setattr(instance, 'height', value[1] + 2))
             btn.single_tap_callback = lambda idx=i: self.select_english(idx, 'single')
             btn.double_tap_callback = lambda idx=i: self.on_english_double_tap(idx)
             self.english_col.add_widget(btn)
             self.english_buttons.append(btn)
         for i, word in enumerate(self.german_words):
-            btn = DoubleTapButton(text=word['word'], background_color=self.get_color(word['color']))
+            btn = DoubleTapButton(
+                text=word['word'],
+                background_color=self.get_color(word['color']),
+                size_hint_y=None,
+                halign='left',
+                valign='middle',
+                padding=[2, 0],
+                font_size=20
+            )
+            btn.text_size = (btn.width, None)
+            btn.bind(width=lambda instance, value: setattr(instance, 'text_size', (value, None)))
+            btn.bind(texture_size=lambda instance, value: setattr(instance, 'height', value[1] + 2))
             btn.single_tap_callback = lambda idx=i: self.select_german(idx, 'single')
             btn.double_tap_callback = lambda idx=i: self.on_german_double_tap(idx)
             self.german_col.add_widget(btn)
             self.german_buttons.append(btn)
+        self.english_col.spacing = button_spacing
+        self.german_col.spacing = button_spacing
 
     def get_color(self, color_name):
         colors = {
             'black': [0,0,0,1],
             'red': [1,0,0,1],
-            'lightgrey': [0.5,0.5,0.5,1],  # darker grey
+            'lightgrey': [0.98,0.98,0.98,1.0],  # even lighter grey
             'lightblue': [0.5,0.7,1,1],
             'yellow': [1,1,0,1],
-            'green': [0,0.6,0,1],  # less bright green
+            'green': [0.3,1,0.3,1],  # brighter green
         }
         return colors.get(color_name, [0,0,0,1])
     # __init__ moved above
@@ -162,10 +188,21 @@ class WordMatchScreen(BoxLayout):
     def build_ui(self):
         # Main grid (no title)
         self.grid = GridLayout(cols=2, spacing=10, size_hint=(1, 0.9))
-        self.english_col = BoxLayout(orientation='vertical', spacing=5)
-        self.german_col = BoxLayout(orientation='vertical', spacing=5)
-        self.grid.add_widget(self.english_col)
-        self.grid.add_widget(self.german_col)
+
+        # English column in a ScrollView
+        self.english_col = BoxLayout(orientation='vertical', spacing=2, size_hint_y=None)
+        self.english_col.bind(minimum_height=self.english_col.setter('height'))
+        english_scroll = ScrollView(size_hint=(1, 1))
+        english_scroll.add_widget(self.english_col)
+
+        # German column in a ScrollView
+        self.german_col = BoxLayout(orientation='vertical', spacing=2, size_hint_y=None)
+        self.german_col.bind(minimum_height=self.german_col.setter('height'))
+        german_scroll = ScrollView(size_hint=(1, 1))
+        german_scroll.add_widget(self.german_col)
+
+        self.grid.add_widget(english_scroll)
+        self.grid.add_widget(german_scroll)
         self.add_widget(self.grid)
 
 
@@ -186,7 +223,7 @@ class DoubleTapButton(Button):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
         self.last_touch_time = 0
-        self.double_tap_time = 0.4  # seconds (slightly reduced for snappier feel)
+        self.double_tap_time = 0.2  # seconds (slightly reduced for snappier feel)
         self.single_tap_callback = lambda: None
         self.double_tap_callback = lambda: None
         self._single_tap_pending = False

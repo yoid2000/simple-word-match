@@ -55,12 +55,59 @@ This is a Kivy-based version of the Simple Word Match app for Android. It does n
    - `buildozer -v android debug`
    - The APK will be in the `bin/` directory.
 5. **Sideload the APK to your phone:**
-   - Enable "Install from unknown sources" on your phone
-   - Transfer the APK to your phone and open it to install
+   - **Enable "Install from unknown sources":**
+     - On your Android device, go to **Settings > Security** (or **Settings > Apps & notifications > Special app access > Install unknown apps** on newer Android versions).
+     - Find your file manager or browser app (the one you'll use to open the APK) and enable "Allow from this source" or "Install unknown apps".
+   - **Transfer the APK to your phone:**
+     - The APK file will be in the `bin/` directory (e.g., `bin/simplewordmatch-0.1-debug.apk`).
+     - You can transfer it via:
+       - **USB cable:** Connect your phone to your PC, set it to "File Transfer" mode, and copy the APK to your Downloads folder.
+       - **Email:** Email the APK to yourself and download it on your phone.
+       - **Cloud storage:** Upload the APK to Google Drive, Dropbox, etc., and download it on your phone.
+   - **Open and install the APK:**
+     - Use your phone's file manager or the "Files" app to navigate to the folder where you saved the APK (usually "Downloads").
+     - Tap the APK file. You may see a warning; confirm you want to install.
+     - The app will install and appear in your app drawer.
 
 #### **B. On Windows (for editing/running only):**
 - You can edit and run the app locally with Python and Kivy (see above), but you cannot build an APK directly on Windows.
 - To build an APK, use WSL (Windows Subsystem for Linux) or a Linux VM, and follow the Ubuntu/Linux instructions above.
+
+---
+
+## How to Generate a New APK After Updating the App
+
+If you make changes to the app code (for example, edit `main.py`, `word_manager.py`, or other files), you need to generate a new APK to install the updated version on your phone:
+
+1. **On your Ubuntu/Linux/WSL machine, open a terminal and navigate to the `kivy/` directory:**
+   ```sh
+   cd /path/to/your/simple-word-match/kivy
+   ```
+2. **Build a new APK:**
+   ```sh
+   buildozer -v android debug
+   ```
+   - This will rebuild the APK with your latest changes. The new APK will appear in the `bin/` directory.
+3. **Sideload and install the new APK on your phone:**
+   - Follow the instructions in the "How to Update the App on Your Phone" section below.
+
+---
+
+## How to Update the App on Your Phone
+
+If you make changes to the app and build a new APK, follow these steps to update it on your Android device:
+
+1. **(Recommended) Uninstall the old version first:**
+   - Go to **Settings > Apps** (or **Apps & notifications**), find **Simple Word Match**, and tap **Uninstall**.
+   - This helps avoid conflicts with debug/test builds.
+2. **Transfer the new APK to your phone:**
+   - Use USB, email, or cloud storage as described above.
+3. **Install the new APK:**
+   - Open your file manager or "Files" app.
+   - Navigate to the folder where you saved the new APK (usually "Downloads").
+   - Tap the APK file and confirm installation.
+   - If prompted, allow installation from unknown sources.
+   - The new version will replace the old one and appear in your app drawer.
 
 ---
 

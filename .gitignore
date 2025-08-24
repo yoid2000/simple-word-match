@@ -173,3 +173,4 @@ cython_debug/
 # app files
 display*
 frequent_words*
+*apk
