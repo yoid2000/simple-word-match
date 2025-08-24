@@ -148,7 +148,7 @@ class WordMatchScreen(BoxLayout):
                 halign='center',
                 valign='middle',
                 padding=[2, 0],
-                font_size=40
+                font_size=80
             )
             # Enable wrap-around
             btn.text_size = (btn.width, None)
@@ -170,7 +170,7 @@ class WordMatchScreen(BoxLayout):
                 halign='center',
                 valign='middle',
                 padding=[2, 0],
-                font_size=40
+                font_size=80
             )
             btn.text_size = (btn.width, None)
             btn.bind(
