@@ -1,3 +1,8 @@
+from kivy.config import Config
+Config.set('graphics', 'width', '400')   # Set to your phone's width in pixels
+Config.set('graphics', 'height', '800')  # Set to your phone's height in pixels
+Config.set('graphics', 'resizable', '0') # Optional: make window non-resizable
+
 import kivy
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
@@ -134,21 +139,25 @@ class WordMatchScreen(BoxLayout):
         self.german_col.clear_widgets()
         self.english_buttons = []
         self.german_buttons = []
-        button_spacing = 2  # tight spacing
+        button_spacing = 8  # tight spacing
         for i, word in enumerate(self.english_words):
             btn = DoubleTapButton(
                 text=word['word'],
                 background_color=self.get_color(word['color']),
                 size_hint_y=None,
-                halign='left',
+                halign='center',
                 valign='middle',
                 padding=[2, 0],
-                font_size=20
+                font_size=40
             )
+            # Enable wrap-around
             btn.text_size = (btn.width, None)
-            btn.bind(width=lambda instance, value: setattr(instance, 'text_size', (value, None)))
-            # Bind height to texture_size for tight vertical fit
-            btn.bind(texture_size=lambda instance, value: setattr(instance, 'height', value[1] + 2))
+            btn.bind(
+                width=lambda instance, value: setattr(instance, 'text_size', (value, None))
+            )
+            btn.bind(
+                texture_size=lambda instance, value: setattr(instance, 'height', value[1] + 2)
+            )
             btn.single_tap_callback = lambda idx=i: self.select_english(idx, 'single')
             btn.double_tap_callback = lambda idx=i: self.on_english_double_tap(idx)
             self.english_col.add_widget(btn)
@@ -158,14 +167,18 @@ class WordMatchScreen(BoxLayout):
                 text=word['word'],
                 background_color=self.get_color(word['color']),
                 size_hint_y=None,
-                halign='left',
+                halign='center',
                 valign='middle',
                 padding=[2, 0],
-                font_size=20
+                font_size=40
             )
             btn.text_size = (btn.width, None)
-            btn.bind(width=lambda instance, value: setattr(instance, 'text_size', (value, None)))
-            btn.bind(texture_size=lambda instance, value: setattr(instance, 'height', value[1] + 2))
+            btn.bind(
+                width=lambda instance, value: setattr(instance, 'text_size', (value, None))
+            )
+            btn.bind(
+                texture_size=lambda instance, value: setattr(instance, 'height', value[1] + 2)
+            )
             btn.single_tap_callback = lambda idx=i: self.select_german(idx, 'single')
             btn.double_tap_callback = lambda idx=i: self.on_german_double_tap(idx)
             self.german_col.add_widget(btn)
@@ -175,9 +188,10 @@ class WordMatchScreen(BoxLayout):
 
     def get_color(self, color_name):
         colors = {
-            'black': [0,0,0,1],
+            'black': [0.6,0.6,0.6,1],
             'red': [1,0,0,1],
-            'lightgrey': [0.98,0.98,0.98,1.0],  # even lighter grey
+            #'lightgrey': [0.99,0.99,0.99,1.0],  # even lighter grey
+            'lightgrey': [1,1,1,1],  # even lighter grey
             'lightblue': [0.5,0.7,1,1],
             'yellow': [1,1,0,1],
             'green': [0.3,1,0.3,1],  # brighter green
@@ -190,13 +204,13 @@ class WordMatchScreen(BoxLayout):
         self.grid = GridLayout(cols=2, spacing=10, size_hint=(1, 0.9))
 
         # English column in a ScrollView
-        self.english_col = BoxLayout(orientation='vertical', spacing=2, size_hint_y=None)
+        self.english_col = BoxLayout(orientation='vertical', spacing=8, size_hint_y=None)
         self.english_col.bind(minimum_height=self.english_col.setter('height'))
         english_scroll = ScrollView(size_hint=(1, 1))
         english_scroll.add_widget(self.english_col)
 
         # German column in a ScrollView
-        self.german_col = BoxLayout(orientation='vertical', spacing=2, size_hint_y=None)
+        self.german_col = BoxLayout(orientation='vertical', spacing=8, size_hint_y=None)
         self.german_col.bind(minimum_height=self.german_col.setter('height'))
         german_scroll = ScrollView(size_hint=(1, 1))
         german_scroll.add_widget(self.german_col)
